@@ -1,2 +1,2 @@
-# moocs
+# MOOCS
 Massively Online Open Courses
