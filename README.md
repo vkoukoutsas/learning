@@ -9,8 +9,8 @@ Massively Online Open Courses
 
 - [Learning Docker](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Docker%202-compressed.pdf)
 - [Docker Essential Training: 1 Installation and Configuration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%201%20Installation%20And%20Configuration%20(1)-compressed.pdf)
-- [Docker Essential Training: 2 Orchestration]()
-- [Docker Essential Training: 3 Image Creation, Management, and Registry]()
+- [Docker Essential Training: 2 Orchestration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%202%20Orchestration-compressed.pdf)
+- [Docker Essential Training: 3 Image Creation, Management, and Registry](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%203%20Image%20Creation%20Management%20And%20Registry-compressed.pdf)
 - [Docker Essential Training: 4 Storage and Volumes]()
 - [Docker Essential Training: 5 Networking]()
 - [Docker Essential Training: 6 Security]()
