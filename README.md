@@ -1,5 +1,5 @@
-# MOOCS
-Massively Online Open Courses
+# Learning
+Completion certificates from industry exams and Massively Online Open Courses (MOOCs).
 
 ## LinkedIn-Learning/Lynda.com
 
