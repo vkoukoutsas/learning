@@ -5,6 +5,18 @@ Massively Online Open Courses
 
 ### DevOps
 
+#### DevOps General
+
+- [DevOps Foundations](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations-compressed.pdf)
+- [DevOps Foundations: DevSecOps](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Devsecops-compressed.pdf)
+- [DevOps Foundations: Monitoring and Observability](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Monitoring%20And%20Observability-compressed.pdf)
+- [DevOps Foundations: Containers](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Containers-compressed.pdf)
+- [DevOps Foundations: Continuous Delivery/Continuous Integration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Continuous%20Delivery%20Continuous%20Integration-compressed.pdf)
+- [DevOps Foundations: Lean and Agile](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Lean%20And%20Agile-compressed.pdf)
+- [DevOps Foundations: Infrastructure as Code](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Infrastructure%20As%20Code-compressed.pdf)
+- [DevOps Foundations: Site Reliability Engineering](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Site%20Reliability%20Engineering-compressed.pdf)
+
+
 #### Containers
 
 ##### Docker
@@ -20,7 +32,6 @@ Massively Online Open Courses
 
 ##### Kubernetes
 
-
 - [Learning Kubernetes](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Kubernetes-compressed.pdf)
 - [Kubernetes: Cloud Native Ecosystem](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Cloud%20Native%20Ecosystem-compressed.pdf)
 - [Kubernetes: Native Tools](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Native%20Tools-compressed.pdf)
@@ -29,6 +40,14 @@ Massively Online Open Courses
 
 - [Learning Ansible](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Ansible-compressed.pdf)
 - [Learning Terraform](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Terraform-compressed.pdf)
+- [Learning Jenkins](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Jenkins-compressed.pdf)
+- [Getting Started with Elastic Stack](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Getting%20Started%20With%20Elastic%20Stack-compressed.pdf)
+- [Elasticsearch Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Elasticsearch%20Essential%20Training-compressed.pdf)
+
+
+##### Git(Hub)
+
+- [Learning Git and GitHub](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Git%20And%20Github-compressed.pdf)
 
 #### DevSecOps
 
@@ -41,11 +60,50 @@ Massively Online Open Courses
 
 ### Operating Systems
 
+#### Linux
+
+- [Learning Linux Command Line](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Linux%20Command%20Line%202-compressed.pdf)
+- [Learning Bash Scripting](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Bash%20Scripting-compressed.pdf)
+- [Linux: Files and Permissions](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Linux%20Files%20And%20Permissions-compressed.pdf)
+- [Linux: Overview and Installation](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Linux%20Overview%20And%20Installation%20(1)-compressed.pdf)
+
+
 ### Cloud Computing
+
+#### Azure
+
+- [Azure DevOps First Look](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Azure%20Devops%20First%20Look%202-compressed.pdf)
+- [Microsoft Azure: Design and Implement a Storage Strategy](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Design%20And%20Implement%20A%20Storage%20Strategy-compressed.pdf)
+- [Microsoft Azure: Create and Manage Virtual Machines](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Create%20And%20Manage%20Virtual%20Machines-compressed.pdf)
+- [Microsoft Azure: Security Concepts](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Security%20Concepts%203%20(1)-compressed.pdf)
+- [Microsoft Azure: Networking Concepts](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Networking%20Concepts%202-compressed.pdf)
+- [Microsoft Azure: Active Directory](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Active%20Directory%202-compressed.pdf)
+- [Microsoft Azure: Core Functionalities](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Core%20Functionalities%202-compressed.pdf)
+- [Planning a Microsoft Cloud Solution](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Planning%20A%20Microsoft%20Cloud%20Solution%202-compressed.pdf)
+- [Cert Prep: Implementing Azure Infrastructure Solutions (70-533)](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cert%20Prep%20Implementing%20Azure%20Infrastructure%20Solutions%2070%20533-compressed.pdf)
+
 
 ### Security
 
 - [Cybersecurity for IT Professionals](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cybersecurity%20For%20It%20Professionals-compressed.pdf)
+
+#### CompTIA Security+
+
+- [Cert Prep: CompTIA Security+ Exam (SY0-501): The Basics](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cert%20Prep%20Comptia%20Security%20Plus%20Exam%20Sy0%20501%20The%20Basics-compressed.pdf)
+
+### Blockchain
+
+- [Blockchain Basics](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Blockchain%20Basics-compressed.pdf)
+- [Cryptocurrency Foundations](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cryptocurrency%20Foundations-compressed.pdf)
+- [Blockchain: Beyond the Basics](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Blockchain%20Beyond%20The%20Basics-compressed.pdf)
+- [Learning Bitcoin and Other Cryptocurrencies](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Bitcoin%20And%20Other%20Cryptocurrencies-compressed.pdf)
+- [Learning Bitcoin](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Bitcoin-compressed.pdf)
+
+
+#### Ethereum
+
+- [Ethereum: Building Blockchain Decentralized Apps (DApps)](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Ethereum%20Building%20Blockchain%20Decentralized%20Apps%20Dapps-compressed.pdf)
+
 
 ### Software Development
 
@@ -53,10 +111,23 @@ Massively Online Open Courses
 
 ##### Java
 
+- [Learning Java](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Java%203-compressed.pdf)
+- [Learning Java Threads](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Java%20Threads-compressed.pdf)
+
+
 ###### Spring
 
 - [Learning Spring with Spring Boot](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Spring%20With%20Spring%20Boot-compressed.pdf)
 
+##### C
+
+- [C Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_C%20Essential%20Training-compressed.pdf)
+- [Learning C](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20C%202014-compressed.pdf)
+
+
+
 #### Concepts
+
+- [Programming Foundations: Object-Oriented Design](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Programming%20Foundations%20Object%20Oriented%20Design%202012-compressed.pdf)
 
 #### Methodologies
