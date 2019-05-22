@@ -56,6 +56,7 @@ Massively Online Open Courses
 
 ### Networking
 
+- [Networking Foundations: Networking Basics](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Networking%20Foundations%20Networking%20Basics-compressed.pdf)
 - [Managing DNS Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Managing%20Dns%20Essential%20Training-compressed.pdf)
 
 ### Operating Systems
@@ -86,6 +87,12 @@ Massively Online Open Courses
 ### Security
 
 - [Cybersecurity for IT Professionals](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cybersecurity%20For%20It%20Professionals-compressed.pdf)
+- [IT Security Foundations: Core Concepts](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_It%20Security%20Foundations%20Core%20Concepts-compressed.pdf)
+- [IT Security Foundations: Operating System Security](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_It%20Security%20Foundations%20Operating%20System%20Security-compressed.pdf)
+- [IT Security Foundations: Network Security](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_It%20Security%20Foundations%20Network%20Security-compressed.pdf)
+- [Cybersecurity Foundations](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cybersecurity%20Foundations-compressed.pdf)
+- [Learning Cryptography and Network Security](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Cryptography%20And%20Network%20Security-compressed.pdf)
+- [Ethical Hacking: Overview](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Ethical%20Hacking%20Overview-compressed.pdf)
 
 #### CompTIA Security+
 
@@ -114,7 +121,6 @@ Massively Online Open Courses
 - [Learning Java](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Java%203-compressed.pdf)
 - [Learning Java Threads](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Java%20Threads-compressed.pdf)
 
-
 ###### Spring
 
 - [Learning Spring with Spring Boot](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Spring%20With%20Spring%20Boot-compressed.pdf)
@@ -124,7 +130,18 @@ Massively Online Open Courses
 - [C Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_C%20Essential%20Training-compressed.pdf)
 - [Learning C](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20C%202014-compressed.pdf)
 
+#### Web
 
+- [Introduction to Web Design and Development](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Introduction%20To%20Web%20Design%20And%20Development-compressed.pdf)
+- [Web Development Foundations: Full-Stack vs Front-End](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Web%20Development%20Foundations%20Full%20Stack%20Vs%20Front%20End-compressed.pdf)
+##### Back-End
+
+- [Apache Web Server: Administration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Apache%20Web%20Server%20Administration-compressed.pdf)
+- [Learning Python and Django](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Python%20And%20Django%202015-compressed.pdf)
+
+##### Front-End
+- [JavaScript Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Javascript%20Essential%20Training%202011-compressed.pdf)
+- [jQuery Data with AJAX](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Jquery%20Data%20With%20Ajax-compressed.pdf)
 
 #### Concepts
 
