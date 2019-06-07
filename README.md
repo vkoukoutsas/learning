@@ -147,4 +147,4 @@ Completion certificates from industry exams and Massively Online Open Courses (M
 
 - [Programming Foundations: Object-Oriented Design](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Programming%20Foundations%20Object%20Oriented%20Design%202012-compressed.pdf)
 
-#### Methodologies
+
