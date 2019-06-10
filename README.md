@@ -31,6 +31,8 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Learning Jenkins](https://www.linkedin.com/learning/learning-jenkins) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Jenkins-compressed.pdf)) | LinkedIn Learning | [Michael Jenkins](https://www.linkedin.com/learning/instructors/michael-jenkins) |
 | [Getting Started with Elastic Stack](https://www.linkedin.com/learning/learning-the-elastic-stack) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Getting%20Started%20With%20Elastic%20Stack-compressed.pdf)) | LinkedIn Learning | [Emmanuel Henri](https://www.linkedin.com/learning/instructors/emmanuel-henri) |
 | [Elasticsearch Essential Training](https://www.linkedin.com/learning/elasticsearch-essential-training) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Elasticsearch%20Essential%20Training-compressed.pdf)) | LinkedIn Learning | [Ben Sullins](https://www.linkedin.com/learning/instructors/ben-sullins) |
+| [Learning Chef](https://www.lynda.com/Chef-tutorials/Learning-Chef/585256-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/LearningChef_CertificateOfCompletion-compressed.pdf)) | Lynda.com | [Robin Beck](https://www.lynda.com/Robin-Beck/9964483-1.html) |
+| [TeamCity 2017 Essential Training](https://www.lynda.com/ASP-NET-tutorials/TeamCity-2017-Essential-Training/734648-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/TeamCity2017EssentialTraining_CertificateOfCompletion.pdf)) | Lynda.com | [Aref Karimi](https://www.lynda.com/Aref-Karimi/1834923249-1.html)|
 
 # Containers
 
@@ -56,6 +58,12 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Kubernetes: Native Tools](<https://www.linkedin.com/learning/kubernetes-native-tools>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Native%20Tools-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 
 # Cloud Computing
+
+## General Concepts
+
+|Course|Platform| Institution/Instructor|
+|:---:|:---:|:---:|
+| [Cloud Architecture Core Concepts](https://www.lynda.com/IT-Infrastructure-tutorials/Cloud-Architecture-Core-Concepts/599615-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/CloudArchitecture_CoreConcepts_CertificateOfCompletion.pdf)) | Lynda.com |[David Linthicum](https://www.lynda.com/David-Linthicum/7508813-1.html)|
 
 ## Azure
 |                            Course                            |     Platform      |                    Institution/Instructor                    |
