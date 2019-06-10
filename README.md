@@ -4,9 +4,9 @@ Completion certificates from industry exams and Massively Online Open Courses (M
 ## DevOps
 
 
-|Course|Certificate|Platform|Instructor(s)|
-|:---:|:---:|:---:|:---:|
-|[DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) | [Cert](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations-compressed.pdf) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) ||
+|Course|Platform| Institution/Instructor|
+|:---:|:---:|:---:|
+|[DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) ||
 |[DevOps Foundations: DevSecOps]() | [Cert](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Devsecops-compressed.pdf) |
 
 #### DevOps General
