@@ -55,7 +55,20 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Kubernetes: Cloud Native Ecosystem](<https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Cloud%20Native%20Ecosystem-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 | [Kubernetes: Native Tools](<https://www.linkedin.com/learning/kubernetes-native-tools>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Native%20Tools-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 
+# Cloud Computing
 
+## Azure
+|                            Course                            |     Platform      |                    Institution/Instructor                    |
+| :----------------------------------------------------------: | :---------------: | :----------------------------------------------------------: |
+| [Azure DevOps First Look](https://www.linkedin.com/learning/azure-devops-first-look-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Azure%20Devops%20First%20Look%202-compressed.pdf)) | LinkedIn Learning | [Jose Allende](https://www.linkedin.com/learning/instructors/jose-miguel-rady-allende) |
+| [Microsoft Azure: Design and Implement a Storage Strategy](https://www.linkedin.com/learning/microsoft-azure-design-and-implement-a-storage-strategy) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Design%20And%20Implement%20A%20Storage%20Strategy-compressed.pdf)) |LinkedIn Learning| [Sharon Bennett](https://www.linkedin.com/learning/instructors/sharon-bennett) |
+| [Microsoft Azure: Create and Manage Virtual Machines](https://www.linkedin.com/learning/microsoft-azure-create-and-manage-virtual-machines-2017)([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Create%20And%20Manage%20Virtual%20Machines-compressed.pdf)) | LinkedIn Learning | [Sharon Bennett](https://www.linkedin.com/learning/instructors/sharon-bennett) |
+| [Microsoft Azure: Security Concepts](https://www.linkedin.com/learning/microsoft-azure-security-concepts-3) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Security%20Concepts%203%20(1)-compressed.pdf)) | LinkedIn Learning | [David Elfassy](https://www.linkedin.com/learning/instructors/david-elfassy) |
+| [Microsoft Azure: Networking Concepts](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Networking%20Concepts%202-compressed.pdf)) | LinkedIn Learning | [David Elfassy](https://www.linkedin.com/learning/instructors/david-elfassy) |
+| [Microsoft Azure: Active Directory](https://www.linkedin.com/learning/microsoft-azure-active-directory-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Active%20Directory%202-compressed.pdf)) |LinkedIn Learning|[David Elfassy](https://www.linkedin.com/learning/instructors/david-elfassy) |
+| [Microsoft Azure: Core Functionalities](https://www.linkedin.com/learning/microsoft-azure-core-functionalities-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Core%20Functionalities%202-compressed.pdf)) |LinkedIn Learning|[David Elfassy](https://www.linkedin.com/learning/instructors/david-elfassy)|
+| [Planning a Microsoft Cloud Solution](https://www.linkedin.com/learning/planning-a-microsoft-cloud-solution-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Planning%20A%20Microsoft%20Cloud%20Solution%202-compressed.pdf)) |LinkedIn Learning|[Sharon Bennett](https://www.linkedin.com/learning/instructors/sharon-bennett)|
+| [Cert Prep: Implementing Azure Infrastructure Solutions (70-533)](https://www.linkedin.com/learning/cert-prep-implementing-azure-infrastructure-solutions-70-533) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cert%20Prep%20Implementing%20Azure%20Infrastructure%20Solutions%2070%20533-compressed.pdf)) |LinkedIn Learning | [Sharon Bennett](https://www.linkedin.com/learning/instructors/sharon-bennett)|
 
 # Blockchain
 
@@ -68,9 +81,81 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Learning Bitcoin](https://www.linkedin.com/learning/learning-bitcoin-and-other-cryptocurrencies) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Bitcoin-compressed.pdf)) |LinkedIn Learning |[Tom Geller](https://www.linkedin.com/learning/instructors/tom-geller) |
 | [Ethereum: Building Blockchain Decentralized Apps (DApps)](https://www.linkedin.com/learning/ethereum-building-blockchain-decentralized-apps-dapps) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Ethereum%20Building%20Blockchain%20Decentralized%20Apps%20Dapps-compressed.pdf)) |LinkedIn Learning | [Drew Falkman](https://www.linkedin.com/learning/instructors/drew-falkman) |
 
+# Security
 
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) ([Certificate](https://www.futurelearn.com/statements/aw7agsh)) | FutureLearn | [The Open University](https://www.futurelearn.com/partners/the-open-university) |
+| [Cybersecurity for IT Professionals](https://www.linkedin.com/learning/cybersecurity-for-it-professionals-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cybersecurity%20For%20It%20Professionals-compressed.pdf)) |LinkedIn Learning|[Malcom Shore](https://www.linkedin.com/learning/instructors/malcolm-shore)|
+| [IT Security Foundations: Core Concepts](https://www.linkedin.com/learning/it-security-foundations-core-concepts) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_It%20Security%20Foundations%20Core%20Concepts-compressed.pdf)) |LinkedIn Learning| [Lisa Bock](https://www.linkedin.com/learning/instructors/lisa-bock)|
+| [IT Security Foundations: Operating System Security](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_It%20Security%20Foundations%20Operating%20System%20Security-compressed.pdf)) |LinkedIn Learning |[Lisa Bock](https://www.linkedin.com/learning/instructors/lisa-bock) |
+| [IT Security Foundations: Network Security](https://www.linkedin.com/learning/it-security-foundations-network-security) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_It%20Security%20Foundations%20Network%20Security-compressed.pdf)) |LinkedIn Learning | [Lisa Bock](https://www.linkedin.com/learning/instructors/lisa-bock) |
+| [Cybersecurity Foundations](https://www.linkedin.com/learning/cybersecurity-foundations) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cybersecurity%20Foundations-compressed.pdf)) |LinkedIn Learning|[Malcom Shore](https://www.linkedin.com/learning/instructors/malcolm-shore)|
+| [Learning Cryptography and Network Security](https://www.linkedin.com/learning/learning-cryptography-and-network-security) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Cryptography%20And%20Network%20Security-compressed.pdf)) |LinkedIn Learning|[Lisa Bock](https://www.linkedin.com/learning/instructors/lisa-bock)|
+| [Ethical Hacking: Overview](https://www.linkedin.com/learning) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Ethical%20Hacking%20Overview-compressed.pdf)) |LinkedIn Learning|[Lisa Bock](https://www.linkedin.com/learning/instructors/lisa-bock)|
+| [Cert Prep: CompTIA Security+ Exam (SY0-501): The Basics](https://www.linkedin.com/learning/cert-prep-comptia-security-plus-exam-sy0-501-the-basics) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cert%20Prep%20Comptia%20Security%20Plus%20Exam%20Sy0%20501%20The%20Basics-compressed.pdf)) |LinkedIn Learning| [Mike Chapple](https://www.linkedin.com/learning/instructors/mike-chapple)|
+
+
+# Operating Systems
+
+## Linux
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Linux%20Command%20Line%202-compressed.pdf)) |LinkedIn Learning|[Scott Simpson](https://www.linkedin.com/learning/instructors/scott-simpson)|
+| [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Bash%20Scripting-compressed.pdf)) |LinkedIn Learning|[Scott Simpson](https://www.linkedin.com/learning/instructors/scott-simpson)|
+| [Linux: Files and Permissions](https://www.linkedin.com/learning/linux-files-and-permissions) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Linux%20Files%20And%20Permissions-compressed.pdf)) |LinkedIn Learning|[Grant McWilliams](https://www.linkedin.com/learning/instructors/grant-mcwilliams)|
+| [Linux: Overview and Installation](https://www.linkedin.com/learning/linux-overview-and-installation) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Linux%20Overview%20And%20Installation%20(1)-compressed.pdf)) |LinkedIn Learning|[Grant McWilliams](https://www.linkedin.com/learning/instructors/grant-mcwilliams)|
+
+# Networking
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things) ([Certificate](https://www.futurelearn.com/statements/8iv82qe)) | FutureLearn |[King's College London](https://www.futurelearn.com/partners/kings-college-london) |
+| [Networking Foundations: Networking Basics](https://www.linkedin.com/learning/networking-foundations-networking-basics) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Networking%20Foundations%20Networking%20Basics-compressed.pdf)) |LinkedIn Learning|[Timothy Pintello](https://www.linkedin.com/learning/instructors/timothy-pintello)|
+| [Managing DNS Essential Training](https://www.linkedin.com/learning/managing-dns-essential-training) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Managing%20Dns%20Essential%20Training-compressed.pdf)) |LinkedIn Learning|[Sean Colins](https://www.linkedin.com/learning/instructors/sean-colins)|
 
 # Software Engineering 
+
+## Development
+
+## General Concepts
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Programming%20Foundations%20Object%20Oriented%20Design%202012-compressed.pdf)) |LinkedIn Learning|[Simon Allardice](https://www.linkedin.com/learning/instructors/simon-allardice)|
+
+### Java
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [Learning Java](https://www.linkedin.com/learning/learning-java-3) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Java%203-compressed.pdf)) |LinkedIn Learning|[Kathryn Hodge](https://www.linkedin.com/learning/instructors/kathryn-hodge)|
+| [Learning Java Threads](https://www.linkedin.com/learning/learning-java-threads) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Java%20Threads-compressed.pdf)) |LinkedIn Learning|[Peggy Fisher](https://www.linkedin.com/learning/instructors/peggy-fisher)|
+| [Learning Spring with Spring Boot](https://www.linkedin.com/learning/learning-spring-with-spring-boot) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Spring%20With%20Spring%20Boot-compressed.pdf)) |LinkedIn Learning|[Frank P Moley III](https://www.linkedin.com/learning/instructors/frank-p-moley-iii)|
+
+### C
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [C Essential Training](https://www.linkedin.com/learning) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_C%20Essential%20Training-compressed.pdf)) |LinkedIn Learning|[Dan Gookin](https://www.linkedin.com/learning/instructors/dan-gookin)|
+| [Learning C](https://www.linkedin.com/learning/learning-c-2014) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20C%202014-compressed.pdf)) |LinkedIn Learning|[Dan Gookin](https://www.linkedin.com/learning/instructors/dan-gookin)|
+
+## Web
+
+### General
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [Introduction to Web Design and Development](https://www.linkedin.com/learning/introduction-to-web-design-and-development) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Introduction%20To%20Web%20Design%20And%20Development-compressed.pdf)) |LinkedIn Learning|[James Williamson](https://www.linkedin.com/learning/instructors/james-williamson)|
+| [Web Development Foundations: Full-Stack vs Front-End](https://www.linkedin.com/learning/web-development-foundations-full-stack-vs-front-end)([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Web%20Development%20Foundations%20Full%20Stack%20Vs%20Front%20End-compressed.pdf)) |LinkedIn Learning|[Ray Villalobos](https://www.linkedin.com/learning/instructors/ray-villalobos) |
+
+### Back-End
+
+- [Apache Web Server: Administration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Apache%20Web%20Server%20Administration-compressed.pdf)
+- [Learning Python and Django](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Python%20And%20Django%202015-compressed.pdf)
+
+### Front-End
+- [JavaScript Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Javascript%20Essential%20Training%202011-compressed.pdf)
+- [jQuery Data with AJAX](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Jquery%20Data%20With%20Ajax-compressed.pdf)
 
 ## Version Control
 
@@ -82,86 +167,18 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 
 
 
-# Networking
-
-- [Networking Foundations: Networking Basics](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Networking%20Foundations%20Networking%20Basics-compressed.pdf)
-- [Managing DNS Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Managing%20Dns%20Essential%20Training-compressed.pdf)
-
-# Operating Systems
-
-## Linux
-
-- [Learning Linux Command Line](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Linux%20Command%20Line%202-compressed.pdf)
-- [Learning Bash Scripting](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Bash%20Scripting-compressed.pdf)
-- [Linux: Files and Permissions](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Linux%20Files%20And%20Permissions-compressed.pdf)
-- [Linux: Overview and Installation](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Linux%20Overview%20And%20Installation%20(1)-compressed.pdf)
 
 
-# Cloud Computing
-
-## Azure
-
-- [Azure DevOps First Look](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Azure%20Devops%20First%20Look%202-compressed.pdf)
-- [Microsoft Azure: Design and Implement a Storage Strategy](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Design%20And%20Implement%20A%20Storage%20Strategy-compressed.pdf)
-- [Microsoft Azure: Create and Manage Virtual Machines](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Create%20And%20Manage%20Virtual%20Machines-compressed.pdf)
-- [Microsoft Azure: Security Concepts](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Security%20Concepts%203%20(1)-compressed.pdf)
-- [Microsoft Azure: Networking Concepts](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Networking%20Concepts%202-compressed.pdf)
-- [Microsoft Azure: Active Directory](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Active%20Directory%202-compressed.pdf)
-- [Microsoft Azure: Core Functionalities](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Core%20Functionalities%202-compressed.pdf)
-- [Planning a Microsoft Cloud Solution](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Planning%20A%20Microsoft%20Cloud%20Solution%202-compressed.pdf)
-- [Cert Prep: Implementing Azure Infrastructure Solutions (70-533)](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cert%20Prep%20Implementing%20Azure%20Infrastructure%20Solutions%2070%20533-compressed.pdf)
 
 
-# Security
-
-- [Cybersecurity for IT Professionals](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cybersecurity%20For%20It%20Professionals-compressed.pdf)
-- [IT Security Foundations: Core Concepts](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_It%20Security%20Foundations%20Core%20Concepts-compressed.pdf)
-- [IT Security Foundations: Operating System Security](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_It%20Security%20Foundations%20Operating%20System%20Security-compressed.pdf)
-- [IT Security Foundations: Network Security](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_It%20Security%20Foundations%20Network%20Security-compressed.pdf)
-- [Cybersecurity Foundations](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cybersecurity%20Foundations-compressed.pdf)
-- [Learning Cryptography and Network Security](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Cryptography%20And%20Network%20Security-compressed.pdf)
-- [Ethical Hacking: Overview](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Ethical%20Hacking%20Overview-compressed.pdf)
-
-## CompTIA Security+
-
-- [Cert Prep: CompTIA Security+ Exam (SY0-501): The Basics](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cert%20Prep%20Comptia%20Security%20Plus%20Exam%20Sy0%20501%20The%20Basics-compressed.pdf) 
 
 
-# Software Development
 
-## Concepts
 
-- [Programming Foundations: Object-Oriented Design](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Programming%20Foundations%20Object%20Oriented%20Design%202012-compressed.pdf)
 
-## Java
 
-- [Learning Java](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Java%203-compressed.pdf)
-- [Learning Java Threads](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Java%20Threads-compressed.pdf)
 
-### Spring
 
-- [Learning Spring with Spring Boot](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Spring%20With%20Spring%20Boot-compressed.pdf)
-
-## C
-
-- [C Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_C%20Essential%20Training-compressed.pdf)
-- [Learning C](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20C%202014-compressed.pdf)
-
-## Web
-
-### General
-
-- [Introduction to Web Design and Development](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Introduction%20To%20Web%20Design%20And%20Development-compressed.pdf)
-- [Web Development Foundations: Full-Stack vs Front-End](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Web%20Development%20Foundations%20Full%20Stack%20Vs%20Front%20End-compressed.pdf)
-
-### Back-End
-
-- [Apache Web Server: Administration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Apache%20Web%20Server%20Administration-compressed.pdf)
-- [Learning Python and Django](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Python%20And%20Django%202015-compressed.pdf)
-
-### Front-End
-- [JavaScript Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Javascript%20Essential%20Training%202011-compressed.pdf)
-- [jQuery Data with AJAX](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Jquery%20Data%20With%20Ajax-compressed.pdf)
 
 
 
