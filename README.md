@@ -150,12 +150,17 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 
 ### Back-End
 
-- [Apache Web Server: Administration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Apache%20Web%20Server%20Administration-compressed.pdf)
-- [Learning Python and Django](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Python%20And%20Django%202015-compressed.pdf)
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [Apache Web Server: Administration](https://www.linkedin.com/learning/apache-web-server-administration) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Apache%20Web%20Server%20Administration-compressed.pdf)) |LinkedIn Learning|[Jon Peck](https://www.linkedin.com/learning/instructors/jon-peck)|
+| [Learning Python and Django](https://www.linkedin.com/learning) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Python%20And%20Django%202015-compressed.pdf)) |LinkedIn Learning|[Jon Peck](https://www.linkedin.com/learning/instructors/jon-peck)|
 
 ### Front-End
-- [JavaScript Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Javascript%20Essential%20Training%202011-compressed.pdf)
-- [jQuery Data with AJAX](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Jquery%20Data%20With%20Ajax-compressed.pdf)
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training-3) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Javascript%20Essential%20Training%202011-compressed.pdf)) |LinkedIn Learning|[Morten Rand-Hendriksen](https://www.linkedin.com/learning/instructors/morten-rand-hendriksen) |
+| [jQuery Data with AJAX](https://www.linkedin.com/learning/jquery-data-with-ajax) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Jquery%20Data%20With%20Ajax-compressed.pdf)) |LinkedIn Learning|[Joe Chellman](https://www.linkedin.com/learning/instructors/joe-chellman)|
 
 ## Version Control
 
