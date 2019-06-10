@@ -1,5 +1,5 @@
 # Learning
-Completion certificates from industry exams and Massively Online Open Courses (MOOCs).
+Certificates of completion from various Massively Online Open Courses (MOOCs) and industry exams.
 
 ## DevOps
 
@@ -18,24 +18,28 @@ Completion certificates from industry exams and Massively Online Open Courses (M
 
 #### DevOps Tools
 
-- [Learning Ansible](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Ansible-compressed.pdf)
-- [Learning Terraform](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Terraform-compressed.pdf)
-- [Learning Jenkins](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Jenkins-compressed.pdf)
-- [Getting Started with Elastic Stack](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Getting%20Started%20With%20Elastic%20Stack-compressed.pdf)
-- [Elasticsearch Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Elasticsearch%20Essential%20Training-compressed.pdf)
+|Course|Platform| Institution/Instructor|
+|:---:|:---:|:---:|
+| [Learning Ansible](https://www.linkedin.com/learning/learning-ansible) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Ansible-compressed.pdf)) | LinkedIn Learning | [Jesse Keating](https://www.linkedin.com/learning/instructors/jesse-keating) |
+| [Learning Terraform](https://www.linkedin.com/learning/learning-terraform) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Terraform-compressed.pdf)) | LinkedIn Learning | [Adron Hall](https://www.linkedin.com/learning/instructors/adron-hall) |
+| [Learning Jenkins](https://www.linkedin.com/learning/learning-jenkins) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Jenkins-compressed.pdf)) | LinkedIn Learning | [Michael Jenkins](https://www.linkedin.com/learning/instructors/michael-jenkins) |
+| [Getting Started with Elastic Stack](https://www.linkedin.com/learning/learning-the-elastic-stack) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Getting%20Started%20With%20Elastic%20Stack-compressed.pdf)) | LinkedIn Learning | [Emmanuel Henri](https://www.linkedin.com/learning/instructors/emmanuel-henri) |
+| [Elasticsearch Essential Training](https://www.linkedin.com/learning/elasticsearch-essential-training) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Elasticsearch%20Essential%20Training-compressed.pdf)) | LinkedIn Learning | [Ben Sullins](https://www.linkedin.com/learning/instructors/ben-sullins) |
 
 #### Containers
 
 #### Docker
 
-- [Learning Docker](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Docker%202-compressed.pdf)
-- [Docker Essential Training: 1 Installation and Configuration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%201%20Installation%20And%20Configuration%20(1)-compressed.pdf)
-- [Docker Essential Training: 2 Orchestration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%202%20Orchestration-compressed.pdf)
-- [Docker Essential Training: 3 Image Creation, Management, and Registry](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%203%20Image%20Creation%20Management%20And%20Registry-compressed.pdf)
-- [Docker Essential Training: 4 Storage and Volumes](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%204%20Storage%20And%20Volumes-compressed.pdf)
-- [Docker Essential Training: 5 Networking](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%205%20Networking-compressed.pdf)
-- [Docker Essential Training: 6 Security](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%206%20Security%20(1)-compressed.pdf)
-- [Docker Continuous Delivery](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Continuous%20Delivery-compressed.pdf)
+|Course|Platform| Institution/Instructor|
+|:---:|:---:|:---:|
+| [Learning Docker](https://www.linkedin.com/learning/learning-docker-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Docker%202-compressed.pdf)) | LinkedIn Learning | [Arthur Ulfeldt](https://www.linkedin.com/learning/instructors/arthur-ulfeldt) |
+| [Docker Essential Training: 1 Installation and Configuration](https://www.linkedin.com/learning/docker-essential-training-1-installation-and-configuration) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%201%20Installation%20And%20Configuration%20(1)-compressed.pdf)) | LinkedIn Learning | [David Davis](https://www.linkedin.com/learning/instructors/david-davis) |
+| [Docker Essential Training: 2 Orchestration](https://www.linkedin.com/learning/docker-essential-training-2-orchestration) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%202%20Orchestration-compressed.pdf)) | LinkedIn Learning | [David Davis](https://www.linkedin.com/learning/instructors/david-davis) |
+| [Docker Essential Training: 3 Image Creation, Management, and Registry](https://www.linkedin.com/learning/docker-essential-training-3-image-creation-management-and-registry) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%203%20Image%20Creation%20Management%20And%20Registry-compressed.pdf)) | LinkedIn Learning | [David Davis](https://www.linkedin.com/learning/instructors/david-davis)  |
+| [Docker Essential Training: 4 Storage and Volumes](https://www.linkedin.com/learning/docker-essential-training-4-storage-and-volumes) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%204%20Storage%20And%20Volumes-compressed.pdf)) |  LinkedIn Learning | [David Davis](https://www.linkedin.com/learning/instructors/david-davis)  |
+| [Docker Essential Training: 5 Networking](https://www.linkedin.com/learning/docker-essential-training-5-networking) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%205%20Networking-compressed.pdf)) | LinkedIn Learning | [David Davis](https://www.linkedin.com/learning/instructors/david-davis) |
+| [Docker Essential Training: 6 Security](https://www.linkedin.com/learning/docker-essential-training-6-security) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%206%20Security%20(1)-compressed.pdf)) | LinkedIn Learning | [David Davis](https://www.linkedin.com/learning/instructors/david-davis) |
+| [Docker Continuous Delivery](https://www.linkedin.com/learning/docker-continuous-delivery) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Continuous%20Delivery-compressed.pdf)) | LinkedIn Learning | [Arthur Ulfeldt](https://www.linkedin.com/learning/instructors/arthur-ulfeldt) |
 
 ##### Kubernetes
 
