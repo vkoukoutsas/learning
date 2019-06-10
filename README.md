@@ -1,13 +1,16 @@
 # Learning
 Completion certificates from industry exams and Massively Online Open Courses (MOOCs).
 
-## LinkedIn-Learning/Lynda.com
+## DevOps
 
-### DevOps
+
+|Course|Certificate|Platform|Instructor(s)|
+|:---:|:---:|:---:|:---:|
+|[DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) | [Cert](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations-compressed.pdf) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) ||
+|[DevOps Foundations: DevSecOps]() | [Cert](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Devsecops-compressed.pdf) |
 
 #### DevOps General
 
-- [DevOps Foundations](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations-compressed.pdf)
 - [DevOps Foundations: DevSecOps](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Devsecops-compressed.pdf)
 - [DevOps Foundations: Monitoring and Observability](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Monitoring%20And%20Observability-compressed.pdf)
 - [DevOps Foundations: Containers](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Containers-compressed.pdf)
