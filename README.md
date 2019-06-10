@@ -6,17 +6,16 @@ Completion certificates from industry exams and Massively Online Open Courses (M
 
 |Course|Platform| Institution/Instructor|
 |:---:|:---:|:---:|
-|[DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) ||
-|[DevOps Foundations: DevSecOps]() | [Cert](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Devsecops-compressed.pdf) |
+|[DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
+|[DevOps Foundations: DevSecOps](https://www.linkedin.com/learning/devops-foundations-devsecops) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Devsecops-compressed.pdf)) | LinkedIn Learning | [Tim Chase](https://www.linkedin.com/learning/instructors/tim-chase) |
+| [DevOps Foundations: Monitoring and Observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Monitoring%20And%20Observability-compressed.pdf)) | LinkedIn Learning | [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/), [Peco Karayanev](https://www.linkedin.com/learning/instructors/peco-karayanev)|
+| [DevOps Foundations: Containers](https://www.linkedin.com/learning/devops-foundations-containers) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Containers-compressed.pdf)) | LinkedIn Learning | [David Linthicum](https://www.linkedin.com/learning/instructors/david-linthicum) |
+| [DevOps Foundations: Continuous Delivery/Continuous Integration](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Continuous%20Delivery%20Continuous%20Integration-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
 
-#### DevOps General
-
-- [DevOps Foundations: DevSecOps](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Devsecops-compressed.pdf)
-- [DevOps Foundations: Monitoring and Observability](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Monitoring%20And%20Observability-compressed.pdf)
-- [DevOps Foundations: Containers](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Containers-compressed.pdf)
-- [DevOps Foundations: Continuous Delivery/Continuous Integration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Continuous%20Delivery%20Continuous%20Integration-compressed.pdf)
 - [DevOps Foundations: Lean and Agile](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Lean%20And%20Agile-compressed.pdf)
+
 - [DevOps Foundations: Infrastructure as Code](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Infrastructure%20As%20Code-compressed.pdf)
+
 - [DevOps Foundations: Site Reliability Engineering](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Site%20Reliability%20Engineering-compressed.pdf)
 
 
