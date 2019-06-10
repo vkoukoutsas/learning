@@ -56,6 +56,8 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 
 |                            Course                            |     Platform      |                    Institution/Instructor                    |
 | :----------------------------------------------------------: | :---------------: | :----------------------------------------------------------: |
+| [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Architecting%20with%20Google%20Kubernetes%20Engine%20Foundations%20Coursera%20PD9EQ9KCK2VW-compressed.pdf)) | Coursera | [Google Cloud](https://www.coursera.org/googlecloud)|
+|[Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Getting%20Started%20with%20Google%20Kubernetes%20Engine%20Coursera%20BLSGV65HQTZE-compressed.pdf))|Coursera|[Google Cloud](https://www.coursera.org/googlecloud)|
 | [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Kubernetes-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 | [Kubernetes: Cloud Native Ecosystem](<https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Cloud%20Native%20Ecosystem-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 | [Kubernetes: Native Tools](<https://www.linkedin.com/learning/kubernetes-native-tools>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Native%20Tools-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
@@ -81,10 +83,18 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Planning a Microsoft Cloud Solution](https://www.linkedin.com/learning/planning-a-microsoft-cloud-solution-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Planning%20A%20Microsoft%20Cloud%20Solution%202-compressed.pdf)) |LinkedIn Learning|[Sharon Bennett](https://www.linkedin.com/learning/instructors/sharon-bennett)|
 | [Cert Prep: Implementing Azure Infrastructure Solutions (70-533)](https://www.linkedin.com/learning/cert-prep-implementing-azure-infrastructure-solutions-70-533) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cert%20Prep%20Implementing%20Azure%20Infrastructure%20Solutions%2070%20533-compressed.pdf)) |LinkedIn Learning | [Sharon Bennett](https://www.linkedin.com/learning/instructors/sharon-bennett)|
 
+## Google Cloud 
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+|[Computing, Storage and Security with Google Cloud Platform ](www.coursera.org) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Computing%2C%20Storage%20and%20Security%20with%20Google%20Cloud%20Platform%20Coursera%20NG9GKYDTU8GR-compressed.pdf))|Coursera|[Google Cloud](https://www.coursera.org/googlecloud)|
+|[Configuration Management on Google Cloud Platform](www.coursera.org) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Configuration%20Management%20on%20Google%20Cloud%20Platform%20Coursera%20Y7DSWMZ2KJMN-compressed.pdf))|Coursera|[Google Cloud](https://www.coursera.org/googlecloud)|
+
 # Blockchain
 
 | Course | Platform | Institution/Instructor |
 | :----: | :------: | :--------------------: |
+| [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Blockchain%20Basics%20Coursera%20YDQ25DD6N9PZ-compressed.pdf))|Coursera|[The State University of New York](https://www.coursera.org/suny)|
 | [Blockchain Basics](<https://www.linkedin.com/learning/blockchain-basics>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Blockchain%20Basics-compressed.pdf)) |LinkedIn Learning | [Jonathan Reichental](<https://www.linkedin.com/learning/instructors/jonathan-reichental>) |
 | [Cryptocurrency Foundations](https://www.linkedin.com/learning/cryptocurrency-foundations) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cryptocurrency%20Foundations-compressed.pdf)) | LinkedIn Learning | [Jonathan Reichental](<https://www.linkedin.com/learning/instructors/jonathan-reichental>) |
 | [Blockchain: Beyond the Basics](https://www.linkedin.com/learning/blockchain-beyond-the-basics) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Blockchain%20Beyond%20The%20Basics-compressed.pdf)) |LinkedIn Learning | [Jonathan Reichental](<https://www.linkedin.com/learning/instructors/jonathan-reichental>)|
@@ -127,6 +137,13 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Managing DNS Essential Training](https://www.linkedin.com/learning/managing-dns-essential-training) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Managing%20Dns%20Essential%20Training-compressed.pdf)) |LinkedIn Learning|[Sean Colins](https://www.linkedin.com/learning/instructors/sean-colins)|
 
 # Software Engineering 
+
+## Algorithms and Data Structures
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+|[Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Algorithmic%20Toolbox%20Coursera%20ZUE4X5UFJ6YW-compressed.pdf))|Coursera|[University of California San Diego](https://www.coursera.org/ucsd)|
+|[Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Algorithms%20on%20Graphs%20Coursera%20GA8TMGVCXHLY-compressed.pdf))|Coursera|[University of California San Diego](https://www.coursera.org/ucsd)|
 
 ## Development
 
@@ -181,21 +198,9 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | :----------------------------------------------------------: | :---------------: | :----------------------------------------------------------: |
 | [Learning Git and GitHub](https://www.linkedin.com/learning/learning-git-and-github) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Git%20And%20Github-compressed.pdf)) | LinkedIn Learning | [Ray Villalobos](https://www.linkedin.com/learning/instructors/ray-villalobos) |
 
+## Big Data
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+|[Big Data Emerging
+Technologies](https://www.coursera.org/learn/big-data-emerging-technologies/) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Big%20Data%2C%20Cloud%20Computing%2C%20%26%20CDN%20Emerging%20Technologies%20Coursera%20MRTHPU8L5JNF-compressed.pdf))|Coursera|[Yonsei University](https://www.coursera.org/yonsei)|
