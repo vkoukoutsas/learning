@@ -3,6 +3,7 @@ Completion certificates from industry exams and Massively Online Open Courses (M
 
 ## DevOps
 
+### DevOps General
 
 |Course|Platform| Institution/Instructor|
 |:---:|:---:|:---:|
@@ -11,17 +12,21 @@ Completion certificates from industry exams and Massively Online Open Courses (M
 | [DevOps Foundations: Monitoring and Observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Monitoring%20And%20Observability-compressed.pdf)) | LinkedIn Learning | [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/), [Peco Karayanev](https://www.linkedin.com/learning/instructors/peco-karayanev)|
 | [DevOps Foundations: Containers](https://www.linkedin.com/learning/devops-foundations-containers) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Containers-compressed.pdf)) | LinkedIn Learning | [David Linthicum](https://www.linkedin.com/learning/instructors/david-linthicum) |
 | [DevOps Foundations: Continuous Delivery/Continuous Integration](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Continuous%20Delivery%20Continuous%20Integration-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
+| [DevOps Foundations: Lean and Agile](https://www.linkedin.com/learning/devops-foundations-lean-and-agile) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Lean%20And%20Agile-compressed.pdf)) | LinkedIn Learning | [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/), [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
+| [DevOps Foundations: Infrastructure as Code](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Infrastructure%20As%20Code-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
+| [DevOps Foundations: Site Reliability Engineering](https://www.linkedin.com/learning/devops-foundations-site-reliability-engineering) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Site%20Reliability%20Engineering-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
 
-- [DevOps Foundations: Lean and Agile](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Lean%20And%20Agile-compressed.pdf)
+#### DevOps Tools
 
-- [DevOps Foundations: Infrastructure as Code](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Infrastructure%20As%20Code-compressed.pdf)
-
-- [DevOps Foundations: Site Reliability Engineering](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Site%20Reliability%20Engineering-compressed.pdf)
-
+- [Learning Ansible](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Ansible-compressed.pdf)
+- [Learning Terraform](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Terraform-compressed.pdf)
+- [Learning Jenkins](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Jenkins-compressed.pdf)
+- [Getting Started with Elastic Stack](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Getting%20Started%20With%20Elastic%20Stack-compressed.pdf)
+- [Elasticsearch Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Elasticsearch%20Essential%20Training-compressed.pdf)
 
 #### Containers
 
-##### Docker
+#### Docker
 
 - [Learning Docker](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Docker%202-compressed.pdf)
 - [Docker Essential Training: 1 Installation and Configuration](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Docker%20Essential%20Training%201%20Installation%20And%20Configuration%20(1)-compressed.pdf)
@@ -38,13 +43,7 @@ Completion certificates from industry exams and Massively Online Open Courses (M
 - [Kubernetes: Cloud Native Ecosystem](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Cloud%20Native%20Ecosystem-compressed.pdf)
 - [Kubernetes: Native Tools](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Native%20Tools-compressed.pdf)
 
-#### Tools
 
-- [Learning Ansible](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Ansible-compressed.pdf)
-- [Learning Terraform](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Terraform-compressed.pdf)
-- [Learning Jenkins](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Jenkins-compressed.pdf)
-- [Getting Started with Elastic Stack](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Getting%20Started%20With%20Elastic%20Stack-compressed.pdf)
-- [Elasticsearch Essential Training](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Elasticsearch%20Essential%20Training-compressed.pdf)
 
 
 ##### Git(Hub)
