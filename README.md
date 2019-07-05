@@ -217,3 +217,6 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | :----: | :------: | :--------------------: |
 |[Big Data Emerging Technologies](https://www.coursera.org/learn/big-data-emerging-technologies/) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Big%20Data%2C%20Cloud%20Computing%2C%20%26%20CDN%20Emerging%20Technologies%20Coursera%20MRTHPU8L5JNF-compressed.pdf))|Coursera|[Yonsei University](https://www.coursera.org/yonsei)|
 |[Big Data, Cloud Computing, & CDN Emerging Technologies](https://www.coursera.org/learn/big-data-emerging-technologies) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Big%20Data%2C%20Cloud%20Computing%2C%20%26%20CDN%20Emerging%20Technologies%20Coursera%20MRTHPU8L5JNF-compressed.pdf))| Coursera |[Yonsei University](https://www.coursera.org/yonsei)|
+
+
+### [Other: Non-CS Courses](https://github.com/vkoukoutsas/learning/blob/master/certs/Non%20CS%20certs.md)
