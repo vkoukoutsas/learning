@@ -124,6 +124,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |[Cybersecurity and Mobility](https://www.coursera.org/learn/cybersecurity-mobility) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Cybersecurity%20and%20Mobility%20Coursera%208LN9CBVMFCAL-compressed.pdf))|Coursera|[University System of Georgia](https://www.coursera.org/usg)|
 |[Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Cybersecurity%20and%20the%20Internet%20of%20Things%20Coursera%20C37Y88CR9CEP-compressed.pdf))|Coursera|[University System of Georgia](https://www.coursera.org/usg)|
 |[Cybersecurity and the X-Factor](https://www.coursera.org/learn/cybersecurity-and-x-factor) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Cybersecurity%20and%20the%20X-Factor%20Coursera%20T5XHJQP47YWQ-compressed.pdf))|Coursera|[University System of Georgia](https://www.coursera.org/usg)|
+|[Digital Footprint](https://www.coursera.org/learn/digital-footprint) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Digital%20Footprint%20Coursera%20HZYB4AG79QYL-compressed.pdf))|Coursera|[The University of Edinburgh](https://www.coursera.org/edinburgh)|
 
 
 # Operating Systems
