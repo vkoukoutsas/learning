@@ -152,6 +152,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | :----: | :------: | :--------------------: |
 |[Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Algorithmic%20Toolbox%20Coursera%20ZUE4X5UFJ6YW-compressed.pdf))|Coursera|[University of California San Diego](https://www.coursera.org/ucsd)|
 |[Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Algorithms%20on%20Graphs%20Coursera%20GA8TMGVCXHLY-compressed.pdf))|Coursera|[University of California San Diego](https://www.coursera.org/ucsd)|
+|[Data Structures](https://www.coursera.org/learn/data-structures) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Data%20Structures%20Coursera%20NB8YR2LCVQY3-compressed.pdf))|Coursera|[University of California San Diego](https://www.coursera.org/ucsd)|
 
 ## Development
 
