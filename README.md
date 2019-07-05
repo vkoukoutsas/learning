@@ -180,6 +180,12 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [C Essential Training](https://www.linkedin.com/learning) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_C%20Essential%20Training-compressed.pdf)) |LinkedIn Learning|[Dan Gookin](https://www.linkedin.com/learning/instructors/dan-gookin)|
 | [Learning C](https://www.linkedin.com/learning/learning-c-2014) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20C%202014-compressed.pdf)) |LinkedIn Learning|[Dan Gookin](https://www.linkedin.com/learning/instructors/dan-gookin)|
 
+### Python
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+|[Getting Started with Python](https://www.coursera.org/learn/python) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Getting%20Started%20with%20Python%20Coursera%20EM47Q3AMF2XN-compressed.pdf))|Coursera|[University of Michigan](https://www.coursera.org/umich)|
+
 ## Web
 
 ### General
