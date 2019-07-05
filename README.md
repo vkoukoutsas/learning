@@ -92,6 +92,8 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |[Configuration Management on Google Cloud Platform](www.coursera.org) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Configuration%20Management%20on%20Google%20Cloud%20Platform%20Coursera%20Y7DSWMZ2KJMN-compressed.pdf))|Coursera|[Google Cloud](https://www.coursera.org/googlecloud)|
 |[Designing Highly Scalable Web Apps on Google Cloud Platform](https://www.classcentral.com/course/coursera-designing-highly-scalable-web-apps-on-google-cloud-platform-7781) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Designing%20Highly%20Scalable%20Web%20Apps%20on%20Google%20Cloud%20Platform%20Coursera%20WVDW5HFYFCWY-compressed.pdf))|Coursera|[Google Cloud](https://www.coursera.org/googlecloud)|
 |[Google Cloud Platform Fundamentals Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Google%20Cloud%20Platform%20Fundamentals%20Core%20Infrastructure%20Coursera%202Z3VVVANVWCX-compressed.pdf))|Coursera|[Google Cloud](https://www.coursera.org/googlecloud)|
+|[Google Cloud Platform for Systems Operations Professionals](https://www.coursera.org/googlecloud) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Google%20Cloud%20Platform%20for%20Systems%20Operations%20Professionals%20Coursera%20NL9LJLVSRPS6-compressed.pdf))|Coursera|[Google Cloud](https://www.coursera.org/googlecloud)|
+
 
 # Blockchain
 
