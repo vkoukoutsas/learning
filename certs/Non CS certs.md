@@ -1,5 +1,11 @@
 # Non CS certs
 
+## Business
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+|[High-Impact Business Writing](https://www.coursera.org/learn/business-writing) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/High-Impact%20Business%20Writing%20Coursera%20DEDUY3U284CJ-compressed.pdf))|Coursera| [university of California, Irvine](https://www.coursera.org/uci)|
+
 ## Physics & Astronomy
 
 | Course | Platform | Institution/Instructor |
