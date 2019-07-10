@@ -129,7 +129,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |[Cybersecurity and the X-Factor](https://www.coursera.org/learn/cybersecurity-and-x-factor) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Cybersecurity%20and%20the%20X-Factor%20Coursera%20T5XHJQP47YWQ-compressed.pdf))|Coursera|[University System of Georgia](https://www.coursera.org/usg)|
 |[Digital Footprint](https://www.coursera.org/learn/digital-footprint) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Digital%20Footprint%20Coursera%20HZYB4AG79QYL-compressed.pdf))|Coursera|[The University of Edinburgh](https://www.coursera.org/edinburgh)|
 |[Enterprise System Management and Security](https://www.coursera.org/learn/enterprise-system-management-security) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Enterprise%20System%20Management%20and%20Security%20Coursera%202T2BGBRER7EW-compressed.pdf))|Coursera|[University of Colorado System](https://www.coursera.org/cusystem)|
-
+|[Homeland Security & Cybersecurity Connection](https://www.coursera.org/learn/homeland-security-cybersecurity-connection) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Homeland%20Security%20%26%20Cybersecurity%20Connection%20Coursera%20X7FB9Z2JV4ED-compressed.pdf))|Coursera|[University of Colorado Boulder](https://www.coursera.org/boulder)|
 
 ## Operating Systems
 
