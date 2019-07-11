@@ -99,6 +99,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 
 | Course | Platform | Institution/Instructor |
 | :----: | :------: | :--------------------: |
+|[IBM Blockchain Foundation for Developers](https://www.coursera.org) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/IBM%20Blockchain%20Foundation%20for%20Developers%20Coursera%20EDRQLPUNWWLV-compressed.pdf))|Coursera|[IBM](https://www.coursera.org/ibm)|
 | [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Blockchain%20Basics%20Coursera%20YDQ25DD6N9PZ-compressed.pdf))|Coursera|[The State University of New York](https://www.coursera.org/suny)|
 | [Blockchain Basics](<https://www.linkedin.com/learning/blockchain-basics>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Blockchain%20Basics-compressed.pdf)) |LinkedIn Learning | [Jonathan Reichental](<https://www.linkedin.com/learning/instructors/jonathan-reichental>) |
 | [Cryptocurrency Foundations](https://www.linkedin.com/learning/cryptocurrency-foundations) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cryptocurrency%20Foundations-compressed.pdf)) | LinkedIn Learning | [Jonathan Reichental](<https://www.linkedin.com/learning/instructors/jonathan-reichental>) |
