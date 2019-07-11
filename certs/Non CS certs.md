@@ -5,6 +5,7 @@
 | Course | Platform | Institution/Instructor |
 | :----: | :------: | :--------------------: |
 |[High-Impact Business Writing](https://www.coursera.org/learn/business-writing) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/High-Impact%20Business%20Writing%20Coursera%20DEDUY3U284CJ-compressed.pdf))|Coursera| [university of California, Irvine](https://www.coursera.org/uci)|
+|[International Business I](https://www.coursera.org/learn/international-business) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/International%20Business%20I%20Coursera%20DPZMW32U8LY9-compressed.pdf))|Coursera|[The University of New Mexico](https://www.coursera.org/newmexico)|
 
 ## Physics & Astronomy
 
