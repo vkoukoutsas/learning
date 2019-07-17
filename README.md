@@ -15,6 +15,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [DevOps Foundations: Lean and Agile](https://www.linkedin.com/learning/devops-foundations-lean-and-agile) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Lean%20And%20Agile-compressed.pdf)) | LinkedIn Learning | [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/), [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 | [DevOps Foundations: Infrastructure as Code](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Infrastructure%20As%20Code-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
 | [DevOps Foundations: Site Reliability Engineering](https://www.linkedin.com/learning/devops-foundations-site-reliability-engineering) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Site%20Reliability%20Engineering-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
+|[DevOps Foundations: Going Cloud-Native](https://www.lynda.com/course-tutorials/DevOps-Foundations-Going-Cloud-Native/5025099-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/DevOpsFoundations_GoingCloudNative_CertificateOfCompletion.pdf))|Lynda.com|[Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad)|
 
 ### DevSecOps
 
@@ -224,6 +225,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |                            Course                            |     Platform      |                    Institution/Instructor                    |
 | :----------------------------------------------------------: | :---------------: | :----------------------------------------------------------: |
 | [Learning Git and GitHub](https://www.linkedin.com/learning/learning-git-and-github) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Git%20And%20Github-compressed.pdf)) | LinkedIn Learning | [Ray Villalobos](https://www.linkedin.com/learning/instructors/ray-villalobos) |
+| [Git for Teams](https://www.lynda.com/Git-tutorials/Git-Teams/711821-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/GitforTeams_CertificateOfCompletion-compressed.pdf))|Lynda.com|[Kevin Bowersox](https://www.lynda.com/Kevin-Bowersox/12392534-1.html)|
 
 ### Big Data
 
