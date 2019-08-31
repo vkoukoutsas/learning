@@ -1,8 +1,8 @@
 Certificates of completion from various Massively Online Open Courses (MOOCs) and industry exams.
 
-## DevOps
+## Dev(Sec)Ops
 
-<details><summary>Expand</summary>
+<details><summary>Course List</summary>
 
 ### DevOps General
   
@@ -44,9 +44,9 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 </details>
 
 
-## Containers
+## Containers & Orchestration
 
-<details><summary>Expand</summary>
+<details><summary>Course List</summary>
 
 ### Docker
 
@@ -74,6 +74,8 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 </details>
 
 ## Cloud Computing
+
+<details><summary>Course List</summary>
 
 ### General Concepts
 
@@ -104,8 +106,11 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |[Google Cloud Platform Fundamentals Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Google%20Cloud%20Platform%20Fundamentals%20Core%20Infrastructure%20Coursera%202Z3VVVANVWCX-compressed.pdf))|Coursera|[Google Cloud](https://www.coursera.org/googlecloud)|
 |[Google Cloud Platform for Systems Operations Professionals](https://www.coursera.org/googlecloud) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Google%20Cloud%20Platform%20for%20Systems%20Operations%20Professionals%20Coursera%20NL9LJLVSRPS6-compressed.pdf))|Coursera|[Google Cloud](https://www.coursera.org/googlecloud)|
 
+</details>
 
-## Blockchain
+## Blockchain & Cryptocurrencies
+
+<details><summary>Course List</summary>
 
 | Course | Platform | Institution/Instructor |
 | :----: | :------: | :--------------------: |
@@ -118,7 +123,11 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Learning Bitcoin](https://www.linkedin.com/learning/learning-bitcoin-and-other-cryptocurrencies) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Bitcoin-compressed.pdf)) |LinkedIn Learning |[Tom Geller](https://www.linkedin.com/learning/instructors/tom-geller) |
 | [Ethereum: Building Blockchain Decentralized Apps (DApps)](https://www.linkedin.com/learning/ethereum-building-blockchain-decentralized-apps-dapps) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Ethereum%20Building%20Blockchain%20Decentralized%20Apps%20Dapps-compressed.pdf)) |LinkedIn Learning | [Drew Falkman](https://www.linkedin.com/learning/instructors/drew-falkman) |
 
+</details>
+
 ## Security
+
+<details><summary>Course List</summary>
 
 | Course | Platform | Institution/Instructor |
 | :----: | :------: | :--------------------: |
@@ -145,7 +154,11 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |[Homeland Security and Cybersecurity Future](https://www.coursera.org/learn/homeland-security-cybersecurity-future) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Homeland%20Security%20and%20Cybersecurity%20Future%20Coursera%20L3JUKRZHBCNB-compressed.pdf))|Coursera|[University of Colorado Boulder](https://www.coursera.org/boulder)|
 |[Information Security Context and Introduction](https://www.coursera.org/learn/information-security-data) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Information%20Security%20Context%20and%20Introduction%20Coursera%20GUJLVWZ96KDZ-compressed.pdf))|Coursera|[University of London](https://www.coursera.org/london)|
 
+</details>
+
 ## Operating Systems
+
+<details><summary>Course List</summary>
 
 ### Linux
 
@@ -156,7 +169,11 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Linux: Files and Permissions](https://www.linkedin.com/learning/linux-files-and-permissions) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Linux%20Files%20And%20Permissions-compressed.pdf)) |LinkedIn Learning|[Grant McWilliams](https://www.linkedin.com/learning/instructors/grant-mcwilliams)|
 | [Linux: Overview and Installation](https://www.linkedin.com/learning/linux-overview-and-installation) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Linux%20Overview%20And%20Installation%20(1)-compressed.pdf)) |LinkedIn Learning|[Grant McWilliams](https://www.linkedin.com/learning/instructors/grant-mcwilliams)|
 
+</details>
+
 ## Networking
+
+<details><summary>Course List</summary>
 
 | Course | Platform | Institution/Instructor |
 | :----: | :------: | :--------------------: |
@@ -164,7 +181,11 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Networking Foundations: Networking Basics](https://www.linkedin.com/learning/networking-foundations-networking-basics) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Networking%20Foundations%20Networking%20Basics-compressed.pdf)) |LinkedIn Learning|[Timothy Pintello](https://www.linkedin.com/learning/instructors/timothy-pintello)|
 | [Managing DNS Essential Training](https://www.linkedin.com/learning/managing-dns-essential-training) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Managing%20Dns%20Essential%20Training-compressed.pdf)) |LinkedIn Learning|[Sean Colins](https://www.linkedin.com/learning/instructors/sean-colins)|
 
+</details>
+
 ## Software Engineering 
+
+<details><summary>Course List</summary>
 
 ### Algorithms and Data Structures
 
@@ -243,5 +264,6 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |[Big Data Emerging Technologies](https://www.coursera.org/learn/big-data-emerging-technologies/) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Big%20Data%2C%20Cloud%20Computing%2C%20%26%20CDN%20Emerging%20Technologies%20Coursera%20MRTHPU8L5JNF-compressed.pdf))|Coursera|[Yonsei University](https://www.coursera.org/yonsei)|
 |[Big Data, Cloud Computing, & CDN Emerging Technologies](https://www.coursera.org/learn/big-data-emerging-technologies) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Big%20Data%2C%20Cloud%20Computing%2C%20%26%20CDN%20Emerging%20Technologies%20Coursera%20MRTHPU8L5JNF-compressed.pdf))| Coursera |[Yonsei University](https://www.coursera.org/yonsei)|
 
+</details>
 
 #### [Other: Non-CS Courses](https://github.com/vkoukoutsas/learning/blob/master/certs/Non%20CS%20certs.md)
