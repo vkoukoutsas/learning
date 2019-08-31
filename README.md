@@ -2,8 +2,10 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 
 ## DevOps
 
-### DevOps General
+<details><summary>Expand</summary>
 
+### DevOps General
+  
 |Course|Platform| Institution/Instructor|
 |:---:|:---:|:---:|
 |[Continuous Delivery & DevOps](https://www.coursera.org/learn/uva-darden-continous-delivery-devops) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Coursera%20NZGE66YAHTCN-compressed.pdf))|Coursera|[University of Virginia](https://www.coursera.org/uva)|
@@ -39,7 +41,12 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |[Java: Build Automation with Maven](https://www.lynda.com/Maven-tutorials/Java-Build-Automation-Maven/504792-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/Java_BuildAutomationwithMaven_CertificateOfCompletion-compressed.pdf))|Lynda.com|[Peggy Fisher](https://www.lynda.com/Peggy-Fisher/2975371-1.html)|
 |[Multi Module Build Automation with Maven](https://www.lynda.com/Maven-tutorials/Multi-Module-Build-Automation-Maven/520530-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/MultiModuleBuildAutomationwithMaven_CertificateOfCompletion-compressed.pdf))|Lynda.com|[Peggy Fisher](https://www.lynda.com/Peggy-Fisher/2975371-1.html)|
 
+</details>
+
+
 ## Containers
+
+<details><summary>Expand</summary>
 
 ### Docker
 
@@ -63,6 +70,8 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Kubernetes-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 | [Kubernetes: Cloud Native Ecosystem](<https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Cloud%20Native%20Ecosystem-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 | [Kubernetes: Native Tools](<https://www.linkedin.com/learning/kubernetes-native-tools>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Native%20Tools-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
+
+</details>
 
 ## Cloud Computing
 
