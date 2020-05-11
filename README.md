@@ -1,4 +1,4 @@
-Certificates of completion from various Massively Online Open Courses (MOOCs) and industry exams.
+Certificates of completion from various Massively Online Open Courses (MOOCs).
 
 ## Dev(Sec)Ops
 
@@ -8,16 +8,19 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
   
 |Course|Platform| Institution/Instructor|
 |:---:|:---:|:---:|
-|[Continuous Delivery & DevOps](https://www.coursera.org/learn/uva-darden-continous-delivery-devops) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Coursera%20NZGE66YAHTCN-compressed.pdf))|Coursera|[University of Virginia](https://www.coursera.org/uva)|
-|[DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
-|[DevOps Foundations: DevSecOps](https://www.linkedin.com/learning/devops-foundations-devsecops) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Devsecops-compressed.pdf)) | LinkedIn Learning | [Tim Chase](https://www.linkedin.com/learning/instructors/tim-chase) |
-| [DevOps Foundations: Monitoring and Observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Monitoring%20And%20Observability-compressed.pdf)) | LinkedIn Learning | [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/), [Peco Karayanev](https://www.linkedin.com/learning/instructors/peco-karayanev)|
+|[Continuous Delivery & DevOps](https://www.coursera.org/learn/uva-darden-continous-delivery-devops) ([Certificate](/certs/Coursera/Continuous-Delivery-and-DevOps.pdf))|Coursera|[University of Virginia](https://www.coursera.org/uva)|
+|[DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) ([Certificate](/certs/LinkedInLearning/DevopsFoundations.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
+|[DevOps Foundations: DevSecOps](https://www.linkedin.com/learning/devops-foundations-devsecops) ([Certificate](/certs/LinkedInLearning/DevopsFoundationsDevSecOps.pdf)) | LinkedIn Learning | [Tim Chase](https://www.linkedin.com/learning/instructors/tim-chase) |
+| [DevOps Foundations: Monitoring and Observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability) ([Certificate](/certs/LinkedInLearning/DevOpsFoundationsMonitoringAndObservability.pdf)) | LinkedIn Learning | [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/), [Peco Karayanev](https://www.linkedin.com/learning/instructors/peco-karayanev)|
 | [DevOps Foundations: Containers](https://www.linkedin.com/learning/devops-foundations-containers) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Containers-compressed.pdf)) | LinkedIn Learning | [David Linthicum](https://www.linkedin.com/learning/instructors/david-linthicum) |
 | [DevOps Foundations: Continuous Delivery/Continuous Integration](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Continuous%20Delivery%20Continuous%20Integration-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
 | [DevOps Foundations: Lean and Agile](https://www.linkedin.com/learning/devops-foundations-lean-and-agile) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Lean%20And%20Agile-compressed.pdf)) | LinkedIn Learning | [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/), [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 | [DevOps Foundations: Infrastructure as Code](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Infrastructure%20As%20Code-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
 | [DevOps Foundations: Site Reliability Engineering](https://www.linkedin.com/learning/devops-foundations-site-reliability-engineering) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devops%20Foundations%20Site%20Reliability%20Engineering-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/), [Ernest Mueller](https://theagileadmin.com/about/ernest-mueller/) |
 |[DevOps Foundations: Going Cloud-Native](https://www.lynda.com/course-tutorials/DevOps-Foundations-Going-Cloud-Native/5025099-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/DevOpsFoundations_GoingCloudNative_CertificateOfCompletion.pdf))|Lynda.com|[Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad)|
+| [DevOps Foundations: Accelerating Continuous Delivery in the Enterprise](https://www.linkedin.com/learning/devops-foundations-accelerating-continuous-delivery-in-the-enterprise/next-steps-with-continuous-delivery) ([Certificate](/certs/LinkedInLearning/DevOpsFoundationsAcceleratingContinuousDeliveryintheEnterprise.pdf)) | LinkedIn Learning | [Manuel Pais](https://www.linkedin.com/learning/instructors/manuel-pais?u=2163426) |
+| [Succeeding in DevOps](https://www.linkedin.com/learning/succeeding-in-devops/) ([Certificate](/certs/LinkedInLearning/SucceedinginDevOps.pdf)) | LinkedIn Learning | [Laura Stone](https://www.linkedin.com/learning/instructors/laura-stone?u=2163426) |
+| [DevOps Essentials](https://linuxacademy.com/course/devops-essentials-2018/) ([Certificate](/certs/LinuxAcademy/DevOpsEssentials.pdf)) | Linux Academy | Linux Academy |
 
 ### DevSecOps
 
@@ -26,12 +29,13 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [DevSecOps: Building a Secure Continuous Delivery Pipeline](https://www.linkedin.com/learning/devsecops-building-a-secure-continuous-delivery-pipeline) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devsecops%20Building%20A%20Secure%20Continuous%20Delivery%20Pipeline-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/) |
 | [DevSecOps: Automated Security Testing]() ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Devsecops%20Automated%20Security%20Testing-compressed.pdf)) | LinkedIn Learning | [James Wickett](https://theagileadmin.com/about/james-wickett/) |
 
+
 ### DevOps Tools
 
 |                            Course                            |     Platform      |                    Institution/Instructor                    |
 | :----------------------------------------------------------: | :---------------: | :----------------------------------------------------------: |
 | [Learning Ansible](https://www.linkedin.com/learning/learning-ansible) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Ansible-compressed.pdf)) | LinkedIn Learning | [Jesse Keating](https://www.linkedin.com/learning/instructors/jesse-keating) |
-| [Learning Terraform](https://www.linkedin.com/learning/learning-terraform) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Terraform-compressed.pdf)) | LinkedIn Learning | [Adron Hall](https://www.linkedin.com/learning/instructors/adron-hall) |
+| [Learning Terraform (2017)](https://www.linkedin.com/learning/learning-terraform) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Terraform-compressed.pdf)) | LinkedIn Learning | [Adron Hall](https://www.linkedin.com/learning/instructors/adron-hall) |
 | [Learning Jenkins](https://www.linkedin.com/learning/learning-jenkins) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Jenkins-compressed.pdf)) | LinkedIn Learning | [Michael Jenkins](https://www.linkedin.com/learning/instructors/michael-jenkins) |
 | [Getting Started with Elastic Stack](https://www.linkedin.com/learning/learning-the-elastic-stack) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Getting%20Started%20With%20Elastic%20Stack-compressed.pdf)) | LinkedIn Learning | [Emmanuel Henri](https://www.linkedin.com/learning/instructors/emmanuel-henri) |
 | [Elasticsearch Essential Training](https://www.linkedin.com/learning/elasticsearch-essential-training) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Elasticsearch%20Essential%20Training-compressed.pdf)) | LinkedIn Learning | [Ben Sullins](https://www.linkedin.com/learning/instructors/ben-sullins) |
@@ -40,6 +44,9 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |[Introducing Maven](https://www.lynda.com/Maven-tutorials/Introducing-Maven/794129-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/IntroducingMaven_CertificateOfCompletion-compressed.pdf))|Lynda.com|[Frank P Moley III](https://www.lynda.com/Frank-P-Moley-III/7579047-1.html)|
 |[Java: Build Automation with Maven](https://www.lynda.com/Maven-tutorials/Java-Build-Automation-Maven/504792-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/Java_BuildAutomationwithMaven_CertificateOfCompletion-compressed.pdf))|Lynda.com|[Peggy Fisher](https://www.lynda.com/Peggy-Fisher/2975371-1.html)|
 |[Multi Module Build Automation with Maven](https://www.lynda.com/Maven-tutorials/Multi-Module-Build-Automation-Maven/520530-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/MultiModuleBuildAutomationwithMaven_CertificateOfCompletion-compressed.pdf))|Lynda.com|[Peggy Fisher](https://www.lynda.com/Peggy-Fisher/2975371-1.html)|
+| [Jenkins 2 Bootcamp: Fully Automate Builds to Deployment](https://www.udemy.com/course/jenkins-continuous-integration-bootcamp/) ([Certificate](/certs/Udemy/Jenkins2BootcampFullyAutomateBuildstoDeployment.pdf)) | Udemy | [Jason Taylor](https://www.udemy.com/user/jasontaylor22/) |
+| [Apache Tomcat Server from Beginners to Advanced](https://www.udemy.com/course/apache-tomcat-for-beginners-and-advanced/) ([Certificate](/certs/Udemy/ApacheTomcatServerFromBeginnersToAdvanced.pdf)) | Udemy | [Cryptocloud Training](https://www.udemy.com/user/ced5d752-b042-4627-847a-c780c3350363/) |
+| [Learning Splunk](https://www.linkedin.com/learning/learning-splunk/) ([Certificate](/certs/LinkedInLearning/LearningSplunk.pdf)) | LinkedIn Learning | [Josh Samuelson](https://www.linkedin.com/learning/instructors/josh-samuelson?u=2163426) |
 
 </details>
 
@@ -70,6 +77,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Kubernetes-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 | [Kubernetes: Cloud Native Ecosystem](<https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Cloud%20Native%20Ecosystem-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
 | [Kubernetes: Native Tools](<https://www.linkedin.com/learning/kubernetes-native-tools>) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Kubernetes%20Native%20Tools-compressed.pdf)) | LinkedIn Learning | [Karthik Gaekwad](https://www.linkedin.com/learning/instructors/karthik-gaekwad) |
+| [Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/) ([Certificate](/certs/Udemy/KubernetesForTheAbsoluteBeginnersHandsOn.pdf)) | Udemy | [KodeKloud Training](https://www.udemy.com/user/kodekloud/), [Mumshad Mannambeth](https://www.udemy.com/user/mumshad-mannambeth/) |
 
 </details>
 
@@ -82,6 +90,18 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |Course|Platform| Institution/Instructor|
 |:---:|:---:|:---:|
 | [Cloud Architecture Core Concepts](https://www.lynda.com/IT-Infrastructure-tutorials/Cloud-Architecture-Core-Concepts/599615-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/CloudArchitecture_CoreConcepts_CertificateOfCompletion.pdf)) | Lynda.com |[David Linthicum](https://www.lynda.com/David-Linthicum/7508813-1.html)|
+
+### AWS
+|                            Course                            |     Platform      |                    Institution/Instructor                    |
+| :----------------------------------------------------------: | :---------------: | :----------------------------------------------------------: |
+| [Amazon EKS Starter: Docker on AWS EKS with Kubernetes](https://www.udemy.com/course/amazon-eks-starter-kubernetes-on-aws/) ([Certificate](/certs/Udemy/Amazon-EKS-Starter-Docker-on-AWS-EKS-with-Kubernetes.pdf)) | Udemy | [Stephane Maarek](https://www.udemy.com/user/stephane-maarek/), [Gerd Koenig](https://www.udemy.com/user/gk43/) |
+| [AWS Concepts](https://www.udemy.com/course/aws-concepts/) ([Certificate](/certs/Udemy/AWSConcepts.pdf)) | Udemy | [Linux Academy](https://www.udemy.com/user/cloudassessments/), [Thomas Haslett](https://www.udemy.com/user/thomashaslett2/) |
+| [Running Kubernetes on AWS (EKS)](https://www.linkedin.com/learning/running-kubernetes-on-aws-eks/next-steps?u=2163426)  ([Certificate](/certs/LinkedInLearning/RunningKubernetesonAWS(EKS).pdf)) | LinkedIn Learning | [Robert Starmer](https://www.linkedin.com/learning/instructors/robert-starmer?u=2163426) |
+| [Amazon EC2 Load Balancers](https://www.linkedin.com/learning/amazon-ec2-load-balancers/) ([Certificate](/certs/LinkedInLearning/AmazonEC2LoadBalancers.pdf)) | LinkedIn Learning | [Shyam Raj](https://www.linkedin.com/learning/instructors/shyam-raj) |
+| [Amazon EKS Deep Dive](https://linuxacademy.com/course/amazon-eks-deep-dive/) ([Certificate](/certs/LinuxAcademy/AmazonEKSDeepDive.pdf)) | Linux Academy | Linux Academy |
+| [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) ([Certificate](/certs/LinuxAcademy/AWSConcepts.pdf)) | Linux Academy | Linux Academy |
+| [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/learn/aws-fundamentals-cloud-migration/home/welcome) ([Certificate](/certs/Coursera/AWSFundamentalsMigratingtotheCloud.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
+
 
 ### Azure
 |                            Course                            |     Platform      |                    Institution/Instructor                    |
@@ -123,6 +143,10 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Learning Bitcoin](https://www.linkedin.com/learning/learning-bitcoin-and-other-cryptocurrencies) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Bitcoin-compressed.pdf)) |LinkedIn Learning |[Tom Geller](https://www.linkedin.com/learning/instructors/tom-geller) |
 | [Ethereum: Building Blockchain Decentralized Apps (DApps)](https://www.linkedin.com/learning/ethereum-building-blockchain-decentralized-apps-dapps) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Ethereum%20Building%20Blockchain%20Decentralized%20Apps%20Dapps-compressed.pdf)) |LinkedIn Learning | [Drew Falkman](https://www.linkedin.com/learning/instructors/drew-falkman) |
 |[Introduction to Corda Development](https://www.udemy.com/course/corda-development/) ([Certificate](/certs/Udemy/Introduction-to-Corda-Development.pdf)) | Udemy | [Katie Escoto](https://www.udemy.com/user/katie-escoto/), [Austin Moothart](https://www.udemy.com/user/austin-moothart/) |
+| [Introducation to Blockchain: Benefits, Values and Opportunities](https://www.coursera.org/learn/blockchain-benefits-values-opportunities/home/welcome) [Certificate](/certs/Coursera/IntroductiontoBlockchainBenefitsValuesandOpportunities.pdf) | Coursera | [AICPA - Association of International Certified Professional Accountants](https://www.coursera.org/instructor/~41263940) |
+| [Introduction to Blockchain: Using and Securing Cryptocurrencies](https://www.coursera.org/learn/blockchain-using-securing-cryptocurrencies/home/welcome) ([Certificate](/certs/Coursera/IntroductiontoBlockchainUsingandSecuringCryptocurrencies.pdf)) | Coursera | [AICPA - Association of International Certified Professional Accountants](https://www.coursera.org/instructor/~41263940) |
+| [Introduction to Blockchain: Evolution and Technology Concepts](https://www.coursera.org/learn/blockchain-evolution-technology-concepts/home/welcome) ([Certificate](/certs/Coursera/IntroductiontoBlockchainEvolutionandTechnologyConcepts.pdf)) | Coursera | [AICPA - Association of International Certified Professional Accountants](https://www.coursera.org/instructor/~41263940) |
+| [Cryptocurrency and Blockchain: An Introduction to Digital Currencies](https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency/home/welcome) ([Certificate](/certs/Coursera/CryptocurrencyandBlockchainAnIntroductiontoDigitalCurrencies.pdf)) | Coursera | [University of Pennsylvania](https://www.coursera.org/penn) |
 
 </details>
 
@@ -154,6 +178,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 |[Homeland Security and Cybersecurity Specialization](https://www.coursera.org/specializations/homeland-security-cybersecurity) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Homeland%20Security%20and%20Cybersecurity%20Coursera%20NB7AFC2M3LVQ-compressed.pdf))|Coursera|[University of Colorado Boulder](https://www.coursera.org/boulder)|
 |[Homeland Security and Cybersecurity Future](https://www.coursera.org/learn/homeland-security-cybersecurity-future) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Homeland%20Security%20and%20Cybersecurity%20Future%20Coursera%20L3JUKRZHBCNB-compressed.pdf))|Coursera|[University of Colorado Boulder](https://www.coursera.org/boulder)|
 |[Information Security Context and Introduction](https://www.coursera.org/learn/information-security-data) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Information%20Security%20Context%20and%20Introduction%20Coursera%20GUJLVWZ96KDZ-compressed.pdf))|Coursera|[University of London](https://www.coursera.org/london)|
+| [CISSP Cert Prep: 5 Identity and Access Management](https://www.linkedin.com/learning/cissp-cert-prep-5-identity-and-access-management-2/)  ([Certificate](/certs/LinkedInLearning/CISSPCertPrep5IdentityandAccessManagement.pdf)) | LinkedInLearning | [Mike Chapple](https://www.linkedin.com/learning/instructors/mike-chapple?u=2163426) |
 
 </details>
 
@@ -169,6 +194,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Learning Bash Scripting](https://www.linkedin.com/learning/learning-bash-scripting) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Bash%20Scripting-compressed.pdf)) |LinkedIn Learning|[Scott Simpson](https://www.linkedin.com/learning/instructors/scott-simpson)|
 | [Linux: Files and Permissions](https://www.linkedin.com/learning/linux-files-and-permissions) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Linux%20Files%20And%20Permissions-compressed.pdf)) |LinkedIn Learning|[Grant McWilliams](https://www.linkedin.com/learning/instructors/grant-mcwilliams)|
 | [Linux: Overview and Installation](https://www.linkedin.com/learning/linux-overview-and-installation) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Linux%20Overview%20And%20Installation%20(1)-compressed.pdf)) |LinkedIn Learning|[Grant McWilliams](https://www.linkedin.com/learning/instructors/grant-mcwilliams)|
+| [Linux Package Management for CentOS](https://www.linkedin.com/learning/linux-package-management-for-centos/) ([Certificate](/certs/LinkedInLearning/LinuxPackageManagementforCentOS.pdf)) | LinkedInLearning | [Grant McWilliams](https://www.linkedin.com/learning/instructors/grant-mcwilliams?u=2163426) |
 
 </details>
 
@@ -206,6 +232,13 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | :----: | :------: | :--------------------: |
 | [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Programming%20Foundations%20Object%20Oriented%20Design%202012-compressed.pdf)) |LinkedIn Learning|[Simon Allardice](https://www.linkedin.com/learning/instructors/simon-allardice)|
 
+#### C
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [C Essential Training](https://www.linkedin.com/learning) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_C%20Essential%20Training-compressed.pdf)) |LinkedIn Learning|[Dan Gookin](https://www.linkedin.com/learning/instructors/dan-gookin)|
+| [Learning C](https://www.linkedin.com/learning/learning-c-2014) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20C%202014-compressed.pdf)) |LinkedIn Learning|[Dan Gookin](https://www.linkedin.com/learning/instructors/dan-gookin)|
+
 #### Java
 | Course | Platform | Institution/Instructor |
 | :----: | :------: | :--------------------: |
@@ -213,12 +246,11 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | [Learning Java Threads](https://www.linkedin.com/learning/learning-java-threads) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Java%20Threads-compressed.pdf)) |LinkedIn Learning|[Peggy Fisher](https://www.linkedin.com/learning/instructors/peggy-fisher)|
 | [Learning Spring with Spring Boot](https://www.linkedin.com/learning/learning-spring-with-spring-boot) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Spring%20With%20Spring%20Boot-compressed.pdf)) |LinkedIn Learning|[Frank P Moley III](https://www.linkedin.com/learning/instructors/frank-p-moley-iii)|
 
-#### C
-
+#### Kotlin
 | Course | Platform | Institution/Instructor |
 | :----: | :------: | :--------------------: |
-| [C Essential Training](https://www.linkedin.com/learning) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_C%20Essential%20Training-compressed.pdf)) |LinkedIn Learning|[Dan Gookin](https://www.linkedin.com/learning/instructors/dan-gookin)|
-| [Learning C](https://www.linkedin.com/learning/learning-c-2014) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20C%202014-compressed.pdf)) |LinkedIn Learning|[Dan Gookin](https://www.linkedin.com/learning/instructors/dan-gookin)|
+| [Kotlin for Beginners - Learn Programming with Kotlin](https://www.udemy.com/course/kotlin-course/) ([Certificate](/certs/Udemy/Kotlin-for-Beginners-Learn-Programming-with-Kotlin.pdf)) | Udemy | [Peter Sommerhoff](https://www.udemy.com/user/petersommerhoff/) |
+| [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers/home/welcome) ([Certificate](/certs/Coursera/KotlinforJavaDevelopers.pdf)) | Coursera | [JetBrains](https://www.coursera.org/jetbrains) |
 
 #### Python
 
@@ -241,6 +273,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs) an
 | :----: | :------: | :--------------------: |
 | [Apache Web Server: Administration](https://www.linkedin.com/learning/apache-web-server-administration) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Apache%20Web%20Server%20Administration-compressed.pdf)) |LinkedIn Learning|[Jon Peck](https://www.linkedin.com/learning/instructors/jon-peck)|
 | [Learning Python and Django](https://www.linkedin.com/learning) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Learning%20Python%20And%20Django%202015-compressed.pdf)) |LinkedIn Learning|[Jon Peck](https://www.linkedin.com/learning/instructors/jon-peck)|
+| [Learning GraphQL](https://www.linkedin.com/learning/learning-graphql/) ([Certificate](/certs/LinkedInLearning/LearningGraphQL.pdf)) | LinkedIn Learning | [Eve Porcello](https://www.linkedin.com/learning/instructors/eve-porcello) |
 
 #### Front-End
 
