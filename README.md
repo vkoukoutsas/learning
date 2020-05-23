@@ -101,6 +101,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [Amazon EKS Deep Dive](https://linuxacademy.com/course/amazon-eks-deep-dive/) ([Certificate](/certs/LinuxAcademy/AmazonEKSDeepDive.pdf)) | Linux Academy | Linux Academy |
 | [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) ([Certificate](/certs/LinuxAcademy/AWSConcepts.pdf)) | Linux Academy | Linux Academy |
 | [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/learn/aws-fundamentals-cloud-migration/home/welcome) ([Certificate](/certs/Coursera/AWSFundamentalsMigratingtotheCloud.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
+| [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) ([Certificate](/certs/Coursera/AWSFundamentalsGoingCloudNative.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
 
 
 ### Azure
@@ -147,6 +148,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [Introduction to Blockchain: Using and Securing Cryptocurrencies](https://www.coursera.org/learn/blockchain-using-securing-cryptocurrencies/home/welcome) ([Certificate](/certs/Coursera/IntroductiontoBlockchainUsingandSecuringCryptocurrencies.pdf)) | Coursera | [AICPA - Association of International Certified Professional Accountants](https://www.coursera.org/instructor/~41263940) |
 | [Introduction to Blockchain: Evolution and Technology Concepts](https://www.coursera.org/learn/blockchain-evolution-technology-concepts/home/welcome) ([Certificate](/certs/Coursera/IntroductiontoBlockchainEvolutionandTechnologyConcepts.pdf)) | Coursera | [AICPA - Association of International Certified Professional Accountants](https://www.coursera.org/instructor/~41263940) |
 | [Cryptocurrency and Blockchain: An Introduction to Digital Currencies](https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency/home/welcome) ([Certificate](/certs/Coursera/CryptocurrencyandBlockchainAnIntroductiontoDigitalCurrencies.pdf)) | Coursera | [University of Pennsylvania](https://www.coursera.org/penn) |
+| [Blockchain](https://www.hult.edu/en/executive-education/programs/online/block-chain/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=K3vwvVKr6jRHVWTqgqH5Hc2DZCCMm-DmGZRda8Kq-Vs)) | Hult Ashridge Executive Education | [Hult Ashridge Executive Education](https://www.hult.edu/en/executive-education/) |
 
 </details>
 
@@ -207,6 +209,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things) ([Certificate](https://www.futurelearn.com/statements/8iv82qe)) | FutureLearn |[King's College London](https://www.futurelearn.com/partners/kings-college-london) |
 | [Networking Foundations: Networking Basics](https://www.linkedin.com/learning/networking-foundations-networking-basics) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Networking%20Foundations%20Networking%20Basics-compressed.pdf)) |LinkedIn Learning|[Timothy Pintello](https://www.linkedin.com/learning/instructors/timothy-pintello)|
 | [Managing DNS Essential Training](https://www.linkedin.com/learning/managing-dns-essential-training) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Managing%20Dns%20Essential%20Training-compressed.pdf)) |LinkedIn Learning|[Sean Colins](https://www.linkedin.com/learning/instructors/sean-colins)|
+| [Internet of Things](https://www.hult.edu/en/executive-education/programs/online/internet-of-things/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=j96PMrb1qgSwEX1ICVJnk2qRBgSJawL_bm9p9rBBjbA)) | Hult Ashridge Executive Education | [Mukul Kumar](https://www.linkedin.com/in/mukul-kumar-79415b/) |
 
 </details>
 
@@ -297,19 +300,44 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | :----: | :------: | :--------------------: |
 |[Big Data Emerging Technologies](https://www.coursera.org/learn/big-data-emerging-technologies/) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Big%20Data%2C%20Cloud%20Computing%2C%20%26%20CDN%20Emerging%20Technologies%20Coursera%20MRTHPU8L5JNF-compressed.pdf))|Coursera|[Yonsei University](https://www.coursera.org/yonsei)|
 |[Big Data, Cloud Computing, & CDN Emerging Technologies](https://www.coursera.org/learn/big-data-emerging-technologies) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/Big%20Data%2C%20Cloud%20Computing%2C%20%26%20CDN%20Emerging%20Technologies%20Coursera%20MRTHPU8L5JNF-compressed.pdf))| Coursera |[Yonsei University](https://www.coursera.org/yonsei)|
+| [Big Data and Analytics](https://www.hult.edu/en/executive-education/programs/online/big-data-analytics/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=HZU_zJ9kIFUhYR6Dm24cvl03aill6xrF23hYE70sVdU)) | Hult Ashridge Executive Education | [Andrew Tivey](https://www.linkedin.com/in/ativey/) |
+
+### Artificial Intelligence
+
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [Artificial Intelligence](https://www.hult.edu/en/executive-education/programs/online/artificial-intelligence/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=NVUbX-cZQ9y1Fmp2f8bB3IgEvmD3JCNSPTmo9y6CIZA)) | Hult Ashridge Executive Education | [Val Sedounik](https://www.linkedin.com/in/dr-val-sedounik-a433a0/) |
 
 </details>
 
-#### Other: Non-CS Courses
+## Management
 
 <details><summary>Course List</summary>
 
+| Course | Platform | Institution/Instructor |
+| :----: | :------: | :--------------------: |
+| [Managing Disruption and Leading Digital Transformation](https://www.hult.edu/en/executive-education/programs/online/online-courses/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=fD9UdZzPN2CxFHHP0rub9wTVDMZWlD409ezN28265y8)) | Hult Ashridge Executive Education | [Paul Griffith](https://www.linkedin.com/in/paul-griffith-971a721/) |
+| [Developing Resilience](https://www.hult.edu/en/executive-education/programs/online/developing-resilience/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=FIg-UWHU97tdSoXG4vperQLM6gXxDK6goowEYc0njec)) | Hult Ashridge Executive Education | [Jill Flint-Taylor](https://www.linkedin.com/in/jill-flint-taylor-3810426/) |
+| [Mindful Leadership](https://www.hult.edu/en/executive-education/programs/online/mindful-leadership/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=Xa3FISKxrz-EqhQ9-TIIsGQcf-JCPlf_kasQPnFXfBE)) | Hult Ashridge Executive Education | [Michael Chaskalson](https://www.linkedin.com/in/mindfulnessworks/) |
+| [Influencing Skills](https://www.hult.edu/en/executive-education/programs/online/influencing-skills/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=ieFZTKJZhLK7mooDe00lswb9HjNTOJvLRN1Mw3n4-NM)) | Hult Ashridge Executive Education | [Fiona Dent](https://www.linkedin.com/in/fiona-dent-1767591/) |
+
+</details>
+
 ## Business
+
+<details><summary>Course List</summary>
+
 
 | Course | Platform | Institution/Instructor |
 | :----: | :------: | :--------------------: |
 |[High-Impact Business Writing](https://www.coursera.org/learn/business-writing) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/High-Impact%20Business%20Writing%20Coursera%20DEDUY3U284CJ-compressed.pdf))|Coursera| [university of California, Irvine](https://www.coursera.org/uci)|
 |[International Business I](https://www.coursera.org/learn/international-business) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Coursera/International%20Business%20I%20Coursera%20DPZMW32U8LY9-compressed.pdf))|Coursera|[The University of New Mexico](https://www.coursera.org/newmexico)|
+
+</details>
+
+### Other: Non-CS Courses
+
+<details><summary>Course List</summary>
 
 ## Physics & Astronomy
 
