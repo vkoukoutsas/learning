@@ -322,6 +322,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [Developing Resilience](https://www.hult.edu/en/executive-education/programs/online/developing-resilience/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=FIg-UWHU97tdSoXG4vperQLM6gXxDK6goowEYc0njec)) | Hult Ashridge Executive Education | [Jill Flint-Taylor](https://www.linkedin.com/in/jill-flint-taylor-3810426/) |
 | [Mindful Leadership](https://www.hult.edu/en/executive-education/programs/online/mindful-leadership/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=Xa3FISKxrz-EqhQ9-TIIsGQcf-JCPlf_kasQPnFXfBE)) | Hult Ashridge Executive Education | [Michael Chaskalson](https://www.linkedin.com/in/mindfulnessworks/) |
 | [Influencing Skills](https://www.hult.edu/en/executive-education/programs/online/influencing-skills/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=ieFZTKJZhLK7mooDe00lswb9HjNTOJvLRN1Mw3n4-NM)) | Hult Ashridge Executive Education | [Fiona Dent](https://www.linkedin.com/in/fiona-dent-1767591/) |
+| [Creating High Performing Teams](https://www.hult.edu/en/executive-education/programs/online/creating-high-performing-teams/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=TWNAYNTuhiB8AFiSIq3Wrs-T9CDDvW6gdNXikkAQxHE)) | Hult Ashridge Executive Education | [Angela Jowitt](https://www.linkedin.com/in/angela-jowitt-dolphintd/) |
 
 </details>
 
