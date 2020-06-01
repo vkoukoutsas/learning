@@ -102,6 +102,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) ([Certificate](/certs/LinuxAcademy/AWSConcepts.pdf)) | Linux Academy | Linux Academy |
 | [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/learn/aws-fundamentals-cloud-migration/home/welcome) ([Certificate](/certs/Coursera/AWSFundamentalsMigratingtotheCloud.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
 | [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) ([Certificate](/certs/Coursera/AWSFundamentalsGoingCloudNative.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
+| [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/home/welcome)  ([Certificate](/certs/Coursera/AWSFundamentalsAddressingSecurityRisk.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
 
 
 ### Azure
