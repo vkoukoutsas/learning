@@ -89,7 +89,8 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 
 |Course|Platform| Institution/Instructor|
 |:---:|:---:|:---:|
-| [Cloud Architecture Core Concepts](https://www.lynda.com/IT-Infrastructure-tutorials/Cloud-Architecture-Core-Concepts/599615-2.html) ([Certificate](https://github.com/vkoukoutsas/learning/blob/master/certs/Lynda/CloudArchitecture_CoreConcepts_CertificateOfCompletion.pdf)) | Lynda.com |[David Linthicum](https://www.lynda.com/David-Linthicum/7508813-1.html)|
+| [Cloud Architecture Core Concepts](https://www.lynda.com/IT-Infrastructure-tutorials/Cloud-Architecture-Core-Concepts/599615-2.html) ([Certificate](/certs/Lynda/CloudArchitecture_CoreConcepts_CertificateOfCompletion.pdf)) | Lynda.com |[David Linthicum](https://www.lynda.com/David-Linthicum/7508813-1.html)|
+| [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-2/) ([Certificate](/certs/LinkedInLearning/LearningCloudComputingCoreConcepts.pdf)) | LinkedIn Learning | [David Linthicum](https://www.linkedin.com/learning/instructors/david-linthicum) |
 
 ### AWS
 |                            Course                            |     Platform      |                    Institution/Instructor                    |
