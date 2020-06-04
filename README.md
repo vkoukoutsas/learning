@@ -105,6 +105,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/learn/aws-fundamentals-cloud-migration/home/welcome) ([Certificate](/certs/Coursera/AWSFundamentalsMigratingtotheCloud.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
 | [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) ([Certificate](/certs/Coursera/AWSFundamentalsGoingCloudNative.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
 | [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/home/welcome)  ([Certificate](/certs/Coursera/AWSFundamentalsAddressingSecurityRisk.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
+| [AWS Essential Training for Architects](https://www.linkedin.com/learning/aws-essential-training-for-architects) ([Certificate](/certs/LinkedInLearning/AWSEssentialTrainingforArchitects.pdf)) | LinkedIn Learning | [Jeff Winesett](https://www.linkedin.com/learning/instructors/jeff-winesett) |
 
 
 ### Azure
