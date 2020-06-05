@@ -106,6 +106,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) ([Certificate](/certs/Coursera/AWSFundamentalsGoingCloudNative.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
 | [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/home/welcome)  ([Certificate](/certs/Coursera/AWSFundamentalsAddressingSecurityRisk.pdf)) | Coursera | [AWS](https://www.coursera.org/aws) |
 | [AWS Essential Training for Architects](https://www.linkedin.com/learning/aws-essential-training-for-architects) ([Certificate](/certs/LinkedInLearning/AWSEssentialTrainingforArchitects.pdf)) | LinkedIn Learning | [Jeff Winesett](https://www.linkedin.com/learning/instructors/jeff-winesett) |
+| [Amazon Web Services: Exploring Business Solutions](https://www.linkedin.com/learning/amazon-web-services-exploring-business-solutions/) ([Certificate](/certs/LinkedInLearning/AmazonWebServicesExploringBusinessSolutions.pdf)) | LinkedIn Learning | [Ryan Spence](https://www.linkedin.com/learning/instructors/ryan-spence) |
 
 
 ### Azure
@@ -120,7 +121,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [Microsoft Azure: Core Functionalities](https://www.linkedin.com/learning/microsoft-azure-core-functionalities-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Microsoft%20Azure%20Core%20Functionalities%202-compressed.pdf)) |LinkedIn Learning|[David Elfassy](https://www.linkedin.com/learning/instructors/david-elfassy)|
 | [Planning a Microsoft Cloud Solution](https://www.linkedin.com/learning/planning-a-microsoft-cloud-solution-2) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Planning%20A%20Microsoft%20Cloud%20Solution%202-compressed.pdf)) |LinkedIn Learning|[Sharon Bennett](https://www.linkedin.com/learning/instructors/sharon-bennett)|
 | [Cert Prep: Implementing Azure Infrastructure Solutions (70-533)](https://www.linkedin.com/learning/cert-prep-implementing-azure-infrastructure-solutions-70-533) ([Certificate](https://github.com/vkoukoutsas/moocs/blob/master/certs/LinkedInLearning/CertificateOfCompletion_Cert%20Prep%20Implementing%20Azure%20Infrastructure%20Solutions%2070%20533-compressed.pdf)) |LinkedIn Learning | [Sharon Bennett](https://www.linkedin.com/learning/instructors/sharon-bennett) |
-| [Amazon Web Services: Exploring Business Solutions](https://www.linkedin.com/learning/amazon-web-services-exploring-business-solutions/) ([Certificate](/certs/LinkedInLearning/AmazonWebServicesExploringBusinessSolutions.pdf)) | LinkedIn Learning | [Ryan Spence](https://www.linkedin.com/learning/instructors/ryan-spence) |
+
 
 ### Google Cloud 
 
