@@ -89,7 +89,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 
 |Course|Platform| Institution/Instructor|
 |:---:|:---:|:---:|
-| [Cloud Architecture Core Concepts](https://www.lynda.com/IT-Infrastructure-tutorials/Cloud-Architecture-Core-Concepts/599615-2.html) ([Certificate](/certs/Lynda/CloudArchitecture_CoreConcepts_CertificateOfCompletion.pdf)) | Lynda.com |[David Linthicum](https://www.lynda.com/David-Linthicum/7508813-1.html)|
+| [Cloud Architecture Core Concepts](https://www.linkedin.com/learning/cloud-architecture-core-concepts-2/) ([Certificate](/certs/LinkedInLearning/CloudArchitectureCoreConcepts.pdf)) | LinkedIn Learning |[David Linthicum](https://www.linkedin.com/learning/instructors/david-linthicum)|
 | [Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/learning-cloud-computing-core-concepts-2/) ([Certificate](/certs/LinkedInLearning/LearningCloudComputingCoreConcepts.pdf)) | LinkedIn Learning | [David Linthicum](https://www.linkedin.com/learning/instructors/david-linthicum) |
 | [Learning Cloud Computing: Cloud Storage](https://www.linkedin.com/learning/learning-cloud-computing-cloud-storage-2/) ([Certificate](/certs/LinkedInLearning/LearningCloudComputingCloudStorage.pdf)) | LinkedIn Learning | [David Linthicum](https://www.linkedin.com/learning/instructors/david-linthicum) |
 
