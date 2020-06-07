@@ -328,6 +328,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [Mindful Leadership](https://www.hult.edu/en/executive-education/programs/online/mindful-leadership/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=Xa3FISKxrz-EqhQ9-TIIsGQcf-JCPlf_kasQPnFXfBE)) | Hult Ashridge Executive Education | [Michael Chaskalson](https://www.linkedin.com/in/mindfulnessworks/) |
 | [Influencing Skills](https://www.hult.edu/en/executive-education/programs/online/influencing-skills/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=ieFZTKJZhLK7mooDe00lswb9HjNTOJvLRN1Mw3n4-NM)) | Hult Ashridge Executive Education | [Fiona Dent](https://www.linkedin.com/in/fiona-dent-1767591/) |
 | [Creating High Performing Teams](https://www.hult.edu/en/executive-education/programs/online/creating-high-performing-teams/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=TWNAYNTuhiB8AFiSIq3Wrs-T9CDDvW6gdNXikkAQxHE)) | Hult Ashridge Executive Education | [Angela Jowitt](https://www.linkedin.com/in/angela-jowitt-dolphintd/) |
+| [Creating a Performance Culture](https://www.hult.edu/en/executive-education/programs/online/creating-performance-culture/) ([Certificate](https://va-production.herokuapp.com/assets/certification/view-micro.html?token=2HtA4caXiMlIzyUw7eEeGrcldrUWa7BMfi2nIM4YgHs)) | Hult Ashridge Executive Education | [Pam Jones](https://www.linkedin.com/in/pam-jones-5165406b/?originalSubdomain=uk) |
 
 </details>
 
