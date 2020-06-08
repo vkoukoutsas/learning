@@ -108,6 +108,7 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [AWS Essential Training for Architects](https://www.linkedin.com/learning/aws-essential-training-for-architects) ([Certificate](/certs/LinkedInLearning/AWSEssentialTrainingforArchitects.pdf)) | LinkedIn Learning | [Jeff Winesett](https://www.linkedin.com/learning/instructors/jeff-winesett) |
 | [Amazon Web Services: Exploring Business Solutions](https://www.linkedin.com/learning/amazon-web-services-exploring-business-solutions/) ([Certificate](/certs/LinkedInLearning/AmazonWebServicesExploringBusinessSolutions.pdf)) | LinkedIn Learning | [Ryan Spence](https://www.linkedin.com/learning/instructors/ryan-spence) |
 | [Amazon Web Services: Enterprise Security (2017)](https://www.linkedin.com/learning/amazon-web-services-enterprise-security-2017) ([Certificate](/certs/LinkedInLearning/AWSEnterpriseSecurity2017.pdf)) | LinkedIn Learning | [Sharif Nijim](https://www.linkedin.com/learning/instructors/sharif-nijim) |
+| [AWS: High Availability](https://www.linkedin.com/learning/amazon-web-services-high-availability/) ([Certificate](/certs/LinkedInLearning/AWSHighAvailability.pdf)) | LinkedIn Learning | [Sharif Nijim](https://www.linkedin.com/learning/instructors/sharif-nijim) |
 
 
 ### Azure
