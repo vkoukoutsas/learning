@@ -109,7 +109,14 @@ Certificates of completion from various Massively Online Open Courses (MOOCs).
 | [Amazon Web Services: Exploring Business Solutions](https://www.linkedin.com/learning/amazon-web-services-exploring-business-solutions/) ([Certificate](/certs/LinkedInLearning/AmazonWebServicesExploringBusinessSolutions.pdf)) | LinkedIn Learning | [Ryan Spence](https://www.linkedin.com/learning/instructors/ryan-spence) |
 | [Amazon Web Services: Enterprise Security (2017)](https://www.linkedin.com/learning/amazon-web-services-enterprise-security-2017) ([Certificate](/certs/LinkedInLearning/AWSEnterpriseSecurity2017.pdf)) | LinkedIn Learning | [Sharif Nijim](https://www.linkedin.com/learning/instructors/sharif-nijim) |
 | [AWS: High Availability](https://www.linkedin.com/learning/amazon-web-services-high-availability/) ([Certificate](/certs/LinkedInLearning/AWSHighAvailability.pdf)) | LinkedIn Learning | [Sharif Nijim](https://www.linkedin.com/learning/instructors/sharif-nijim) |
+| [AWS: Controlling Cost](https://www.linkedin.com/learning/amazon-web-services-controlling-cost/) ([Certificate](/certs/LinkedInLearning/AWSControllingCost.pdf)) | LinkedIn Learning | [Lynn Langit](https://www.linkedin.com/learning/instructors/lynn-langit) |
 
+
+#### AWS Certified Solutions Architect - Associate
+
+|                            Course                            |     Platform      |                    Institution/Instructor                    |
+| :----------------------------------------------------------: | :---------------: | :----------------------------------------------------------: |
+| [AWS Certified Solutions Architect - Associate (SAA-C01): 1 Cloud Services Overview (2019)](https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-saa-c01-1-cloud-services-overview-2019?pathUrn=urn%3Ali%3AlyndaLearningPath%3A5a7dfd2f498e2e23103a57e7&u=2163426) ([Certificate](/certs/LinkedInLearning/AWSCertifiedSolutionsArchitectAssociate(SAA-C01)1CloudServicesOverview(2019).pdf)) | LinkedIn Learning | [Tom Carpenter](https://www.linkedin.com/learning/instructors/tom-carpenter-2) |
 
 ### Azure
 |                            Course                            |     Platform      |                    Institution/Instructor                    |
